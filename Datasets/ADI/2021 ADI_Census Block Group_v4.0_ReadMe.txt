@@ -1,0 +1,74 @@
+2021 Block Group ADI Files v4.0
+
+These files contain a linkage between the Census block group and the ADI score.
+The file contains four relevant fields:
+- GISJOIN: Key linkage field to the block group shapefile served by NHGIS
+- FIPS: The block group Census ID
+- ADI_NATRANK: National percentile of block group ADI score
+- ADI_STATERNK: State-specific decile of block group ADI score
+
+
+** DO NOT USE EXCEL TO OPEN THE FILES! **
+Excel has a record limit of roughly 1.4 million and does not warn you if you exceed
+the limit. Truncation of the data may occur!
+
+Upon download of the block group ADI files, please verify the record number count
+in your data against the chksum record number below:
+
+  Abbr                 Full    Freq Size (in bytes)
+    AL              Alabama   3,925         110,567
+    AK               Alaska     504          14,214
+    AZ              Arizona   4,773         134,366
+    AR             Arkansas   2,294          64,606
+    CA           California  25,607         711,160
+    CO             Colorado   4,058         113,813
+    CT          Connecticut   2,716          76,247
+    DE             Delaware     706          19,877
+    DC District of Columbia     571          15,921
+    FL              Florida  13,388         376,299
+    GA              Georgia   7,446         209,459
+    HI               Hawaii   1,083          30,051
+    ID                Idaho   1,284          36,137
+    IL             Illinois   9,898         278,124
+    IN              Indiana   5,290         148,956
+    IA                 Iowa   2,703          76,078
+    KS               Kansas   2,461          69,340
+    KY             Kentucky   3,581         100,875
+    LA            Louisiana   4,294         120,975
+    ME                Maine   1,184          33,350
+    MD             Maryland   4,079         114,512
+    MA        Massachusetts   5,116         143,094
+    MI             Michigan   8,386         236,590
+    MN            Minnesota   4,706         132,411
+    MS          Mississippi   2,445          68,896
+    MO             Missouri   5,031         141,536
+    MT              Montana     900          25,357
+    NE             Nebraska   1,648          46,411
+    NV               Nevada   1,963          55,237
+    NH        New Hampshire     997          28,061
+    NJ           New Jersey   6,599         184,936
+    NM           New Mexico   1,614          45,477
+    NY             New York  16,070         449,050
+    NC       North Carolina   7,111         200,082
+    ND         North Dakota     632          17,826
+    OH                 Ohio   9,472         266,806
+    OK             Oklahoma   3,374          95,113
+    OR               Oregon   2,970          83,404
+    PA         Pennsylvania  10,173         286,645
+    RI         Rhode Island     792          22,309
+    SC       South Carolina   3,408          95,942
+    SD         South Dakota     694          19,566
+    TN            Tennessee   4,562         128,393
+    TX                Texas  18,638         524,253
+    UT                 Utah   2,020          56,773
+    VT              Vermont     552          15,584
+    VA             Virginia   5,963         167,332
+    WA           Washington   5,311         148,538
+    WV        West Virginia   1,639          46,166
+    WI            Wisconsin   4,692         132,021
+    WY              Wyoming     457          12,877
+    PR          Puerto Rico   2,555          72,021
+ Total        United States 242,335       6,801,594
+
+US Census data are obtained directly from IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
