@@ -1,0 +1,8 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,V,Brattleboro Memorial Hospital,Brattleboro,47,"1,375","5,296","$215,215"
+1,T,Central Vermont Medical Center,Berlin,88,"3,485","20,576","$549,490"
+2,V,Northwestern Medical Center,Saint Albans,53,"2,130","8,244","$242,908"
+3,T,Rutland Regional Medical Center,Rutland,142,"6,203","29,700","$699,362"
+4,V,Southwestern Vermont Medical Center,Bennington,57,"3,149","13,745","$433,655"
+5,T,The University of Vermont Medical Center,Burlington,481,"19,703","137,564","$3,583,354"
+6,V,White River Junction VA Medical Center,White River Junction,0,0,0,$0

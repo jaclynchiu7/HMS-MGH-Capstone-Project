@@ -1,0 +1,68 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,S,Aiken Regional Medical Centers,Aiken,273,"10,243","43,042","$1,330,932"
+1,C,AnMed Health Cannon,Pickens,42,764,"2,540","$106,513"
+2,S,AnMed Health Medical Center,Anderson,394,"17,451","86,399","$2,648,519"
+3,C,Beaufort Memorial Hospital,Beaufort,195,"7,876","32,957","$979,968"
+4,S,Bon Secours Saint Francis Hospital,Charleston,175,"8,457","40,055","$976,373"
+5,C,Carolina Pines Regional Medical Center,Hartsville,112,"3,350","13,494","$649,665"
+6,S,Cherokee Medical Center,Gaffney,31,"1,211","5,026","$236,246"
+7,C,Chester Medical Center,Chester,99,744,"2,926","$204,878"
+8,S,Coastal Carolina Hospital,Hardeeville,41,"3,276","10,173","$639,344"
+9,C,Colleton Medical Center,Walterboro,135,"3,223","14,362","$463,552"
+10,S,Columbia VA Health Care System,Columbia,0,0,0,$0
+11,C,Conway Medical Center,Conway,183,"7,220","36,237","$980,185"
+12,S,East Cooper Medical Center,Mount Pleasant,130,"5,038","17,438","$871,540"
+13,C,Grand Strand Regional Medical Center,Myrtle Beach,377,"19,957","106,958","$4,446,350"
+14,S,Hampton Regional Medical Center,Varnville,32,559,"2,641","$72,590"
+15,C,Hilton Head Regional Medical Center,Hilton Head,109,"6,288","24,924","$877,827"
+16,S,Lexington Medical Center,West Columbia,541,"27,130","156,301","$5,448,768"
+17,C,McLeod Behavioral Health Center in Darlington,Darlington,59,71,186,"$29,738"
+18,S,McLeod Health Cheraw,Cheraw,46,"1,687","8,288","$256,319"
+19,C,McLeod Health Clarendon,Manning,49,"1,511","7,959","$259,997"
+20,S,McLeod Health Dillon,Dillon,72,"2,024","9,157","$279,272"
+21,C,McLeod Health Seacoast,Little River,0,0,0,$0
+22,S,McLeod Loris,Loris,155,"7,964","42,356","$1,244,546"
+23,C,McLeod Regional Medical Center,Florence,547,"23,098","145,025","$3,706,924"
+24,S,MUSC Health - Lancaster Medical Center,Lancaster,97,"3,421","20,695","$1,091,606"
+25,C,MUSC Health - Orangeburg,Orangeburg,286,"6,033","35,249","$766,258"
+26,S,MUSC Health Ashley River Tower,Charleston,0,0,0,$0
+27,C,MUSC Health Black River Medical Center,Cades,0,0,0,$0
+28,S,MUSC Health Columbia Medical Center Downtown,Columbia,332,"6,867","18,676","$848,793"
+29,C,MUSC Health Columbia Medical Center Northeast,Columbia,0,0,0,$0
+30,S,MUSC Health Florence Medical Center,Florence,216,"8,668","54,118","$2,229,639"
+31,C,MUSC Health Kershaw Medical Center,Camden,119,"3,393","14,595","$419,090"
+32,S,MUSC Health Marion Medical Center,Mullins,36,"1,541","8,999","$265,786"
+33,C,MUSC Health Shawn Jenkins Children's Hospital,Charleston,0,0,0,$0
+34,S,MUSC Health University Hospital,Charleston,820,"32,949","224,454","$6,893,717"
+35,C,Naval Hospital Beaufort,Beaufort,0,0,0,$0
+36,S,Newberry County Memorial Hospital,Newberry,48,"1,626","7,017","$174,297"
+37,C,Pelham Medical Center,Greer,48,"2,888","13,378","$417,541"
+38,S,Piedmont Medical Center,Rock Hill,300,"12,394","69,879","$2,268,818"
+39,C,Piedmont Medical Center - Fort Mill,Fort Mill,0,0,0,$0
+40,S,Prisma Health Baptist Easley Hospital,Easley,64,"4,269","22,908","$497,666"
+41,C,Prisma Health Baptist Hospital,Columbia,275,"10,971","52,312","$989,643"
+42,S,Prisma Health Baptist Parkridge Hospital,Columbia,78,"4,605","18,519","$685,847"
+43,C,Prisma Health Greenville Memorial Hospital,Greenville,812,"36,094","231,987","$5,486,829"
+44,S,Prisma Health Greer Memorial Hospital,Greer,66,"5,203","22,291","$610,745"
+45,C,Prisma Health Heart Hospital,Columbia,0,0,0,$0
+46,S,Prisma Health Hillcrest Hospital,Simpsonville,43,"2,917","9,674","$466,564"
+47,C,Prisma Health Laurens County Hospital,Clinton,41,"3,172","12,609","$339,985"
+48,S,Prisma Health Oconee Memorial Hospital,Seneca,251,"6,840","32,094","$785,079"
+49,C,Prisma Health Patewood Hospital,Greenville,64,"3,272","10,815","$695,793"
+50,S,Prisma Health Richland Hospital,Columbia,626,"24,062","170,263","$3,526,202"
+51,C,Prisma Health Tuomey Hospital,Sumter,206,"7,408","38,120","$764,682"
+52,S,Ralph H. Johnson VA Medical Center,Charleston,0,0,0,$0
+53,C,Roper Hospital,Charleston,332,"10,127","58,809","$1,392,757"
+54,S,Roper Rehabilitation Hospital,Charleston,0,0,0,$0
+55,C,Roper St. Francis Berkeley Hospital,Summerville,46,"4,205","12,650","$399,627"
+56,S,Roper St. Francis Mount Pleasant Hospital,Mount Pleasant,84,"2,357","11,547","$354,384"
+57,C,Saint Francis Downtown,Greenville,349,"16,714","85,458","$3,453,783"
+58,S,Saint Francis Eastside,Greenville,0,0,0,$0
+59,C,Self Regional Healthcare,Greenwood,322,"10,243","56,969","$1,250,480"
+60,S,Spartanburg Medical Center,Spartanburg,701,"34,537","195,236","$4,084,178"
+61,C,Spartanburg Medical Center - Mary Black Campus,Spartanburg,145,"5,927","20,678","$790,835"
+62,S,Summerville Medical Center,Summerville,0,0,0,$0
+63,C,Tidelands Georgetown Memorial Hospital,Georgetown,68,"3,498","18,513","$616,688"
+64,S,Tidelands Waccamaw Community Hospital,Murrells Inlet,124,"6,978","32,803","$696,964"
+65,C,Trident Medical Center,Charleston,419,"22,418","117,157","$5,332,445"
+66,S,Union Medical Center,Union,15,522,"1,880","$101,145"
