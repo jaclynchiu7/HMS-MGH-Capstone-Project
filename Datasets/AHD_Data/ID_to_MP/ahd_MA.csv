@@ -1,0 +1,71 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,M,AdCare Hospital,Worcester,114,"5,792","36,054","$75,154"
+1,A,Addison Gilbert Hospital,Gloucester,79,"2,538","11,812","$44,239"
+2,M,Anna Jaques Hospital,Newburyport,136,"4,665","24,454","$286,062"
+3,A,Baystate Franklin Medical Center,Greenfield,89,"4,276","19,534","$295,729"
+4,M,Baystate Medical Center,Springfield,767,"38,909","227,846","$3,439,323"
+5,A,Baystate Noble Hospital,Westfield,85,"3,135","15,056","$201,719"
+6,M,Baystate Wing Hospital,Palmer,68,"3,121","14,521","$254,733"
+7,A,Berkshire Medical Center,Pittsfield,272,"10,448","53,230","$1,182,363"
+8,M,Beth Israel Deaconess Hospital Milton,Milton,102,"5,335","23,748","$311,268"
+9,A,Beth Israel Deaconess Hospital-Plymouth,Plymouth,169,"10,169","49,800","$813,784"
+10,M,Beth Israel Deaconess Medical Center,Boston,730,"35,447","236,323","$3,828,975"
+11,A,Beth Israel Deaconess Needham,Needham,58,"4,013","17,301","$297,192"
+12,M,Beverly Hospital,Beverly,337,"17,565","75,199","$999,991"
+13,A,Boston Medical Center,Boston,440,"21,560","152,664","$3,156,241"
+14,M,Brigham and Women's Faulkner Hospital,Boston,171,"7,385","38,594","$1,019,875"
+15,A,Brigham and Women's Hospital,Boston,812,"40,183","301,660","$9,116,892"
+16,M,Brockton VA Medical Center,Brockton,0,0,0,$0
+17,A,Cape Cod Hospital,Hyannis,259,"15,937","71,407","$1,537,767"
+18,M,Carney Hospital,Dorchester,122,"3,484","20,760","$170,606"
+19,A,CHA Cambridge Hospital,Cambridge,253,"6,692","39,011","$914,535"
+20,M,CHA Everett Hospital,Everett,0,0,0,$0
+21,A,CHA Somerville Hospital,Somerville,0,0,0,$0
+22,M,Charlton Memorial Hospital,Fall River,669,"27,594","158,390","$2,600,713"
+23,A,Cooley Dickinson Hospital,Northampton,140,"6,363","26,455","$662,310"
+24,M,Dana-Farber Cancer Institute,Boston,30,"1,290","9,609","$5,408,632"
+25,A,Edith Nourse Rogers Memorial Veterans Hospital,Bedford,0,0,0,$0
+26,M,Emerson Hospital,Concord,160,"6,833","25,107","$841,142"
+27,A,Falmouth Hospital,Falmouth,81,"4,772","21,340","$481,999"
+28,M,Framingham Union Hospital,Framingham,230,"7,224","33,563","$1,213,077"
+29,A,Good Samaritan Medical Center,Brockton,262,"13,785","63,033","$622,667"
+30,M,Heywood Hospital,Gardner,134,"3,259","15,559","$334,796"
+31,A,Holy Family Hospital - Methuen,Methuen,310,"11,897","57,790","$541,320"
+32,M,Holy Family Hospital -Haverhill,Haverhill,122,"2,814","12,549","$112,225"
+33,A,Holyoke Medical Center,Holyoke,219,"5,990","34,528","$530,568"
+34,M,Lahey Hospital and Medical Center,Burlington,345,"20,747","118,448","$2,270,963"
+35,A,"Lahey Medical Center, Peabody",Peabody,0,0,0,$0
+36,M,Lawrence General Hospital,Lawrence,186,"10,521","45,639","$672,637"
+37,A,Lawrence Memorial Hospital of Medford,Medford,216,"7,617","35,168","$497,144"
+38,M,Leonard Morse Hospital,Natick,0,0,0,$0
+39,A,Lowell General - Saints Campus,Lowell,157,"4,634","20,198","$283,531"
+40,M,Lowell General Hospital,Lowell,390,"18,161","88,867","$1,317,115"
+41,A,Massachusetts Eye and Ear Infirmary,Boston,41,"1,075","4,610","$588,286"
+42,M,Massachusetts General Hospital,Boston,"1,021","44,240","337,056","$11,897,268"
+43,A,MelroseWakefield Hospital,Melrose,0,0,0,$0
+44,M,Mercy Medical Center,Springfield,180,"8,017","36,081","$647,792"
+45,A,Milford Regional Medical Center,Milford,148,"9,045","37,804","$628,090"
+46,M,Morton Hospital,Taunton,116,"5,862","26,469","$295,183"
+47,A,Mount Auburn Hospital,Cambridge,201,"12,571","53,862","$588,564"
+48,M,Nantucket Cottage Hospital,Nantucket,14,517,"3,385","$120,249"
+49,A,Nashoba Valley Medical Center,Ayer,77,"1,610","5,236","$169,612"
+50,M,New England Baptist Hospital,Boston,75,"3,690","9,809","$391,168"
+51,A,Newton-Wellesley Hospital,Newton,261,"15,827","74,345","$1,866,862"
+52,M,Saint Anne's Hospital,Fall River,206,"9,138","41,223","$791,516"
+53,A,Saint Elizabeth's Medical Center,Brighton,302,"10,682","58,059","$811,591"
+54,M,Saint Vincent Hospital,Worcester,268,"13,790","63,146","$2,086,115"
+55,A,Salem Hospital,Salem,358,"15,008","79,444","$1,718,640"
+56,M,South Shore Hospital,South Weymouth,374,"29,619","131,636","$1,362,816"
+57,A,St. Luke's Hospital,New Bedford,0,0,0,$0
+58,M,Sturdy Health,Attleboro,125,"7,105","32,268","$471,577"
+59,A,Tobey Hospital,Wareham,0,0,0,$0
+60,M,Tufts Medical Center,Boston,405,"16,041","98,931","$2,410,398"
+61,A,UMass Memorial Health Alliance - Clinton Hospital,Clinton,41,573,"2,111","$91,620"
+62,M,UMass Memorial Health Harrington,Southbridge,129,"4,339","28,297","$451,216"
+63,A,"UMass Memorial HealthAlliance - Clinton Hospital, Leominster Campus",Leominster,145,"7,660","33,703","$698,864"
+64,M,UMass Memorial Marlborough Hospital,Marlborough,67,"2,996","19,790","$346,715"
+65,A,UMass Memorial Medical Center - Memorial Campus,Worcester,0,0,0,$0
+66,M,UMass Memorial Medical Center - University Campus,Worcester,697,"35,033","241,442","$6,432,731"
+67,A,VA Boston Healthcare System - Jamaica Plain Division,Boston,0,0,0,$0
+68,M,West Roxbury VA Medical Center,West Roxbury,0,0,0,$0
+69,A,Winchester Hospital,Winchester,178,"12,225","55,837","$698,391"

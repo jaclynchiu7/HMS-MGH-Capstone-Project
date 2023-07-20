@@ -1,0 +1,19 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,I,Boise VA Medical Center,Boise,0,0,0,$0
+1,D,Eastern Idaho Regional Medical Center,Idaho Falls,290,"9,278","53,648","$1,716,791"
+2,I,Grove Creek Medical Center,Blackfoot,8,396,"1,474","$6,436"
+3,D,Idaho Falls Community Hospital,Idaho Falls,88,"2,110","10,066","$219,528"
+4,I,Kootenai Health,Coeur d'Alene,329,"14,813","88,949","$1,660,832"
+5,D,Madison Memorial Hospital,Rexburg,65,"2,136","8,405","$191,401"
+6,I,Mountain View Hospital,Idaho Falls,41,"2,074","6,738","$746,129"
+7,D,Northwest Specialty Hospital,Post Falls,32,"1,118","2,521","$351,102"
+8,I,Portneuf Medical Center,Pocatello,177,"7,407","35,067","$1,440,854"
+9,D,Saint Alphonsus Medical Center - Nampa,Nampa,96,"6,512","25,983","$706,780"
+10,I,Saint Alphonsus Regional Medical Center,Boise,378,"15,860","89,347","$1,976,768"
+11,D,Saint Joseph Regional Medical Center,Lewiston,130,"3,302","11,935","$530,696"
+12,I,St. Luke's Boise Medical Center,Boise,579,"26,095","127,185","$4,708,679"
+13,D,St. Luke's Magic Valley Medical Center,Twin Falls,217,"10,536","37,183","$1,289,124"
+14,I,St. Luke's Meridian Medical Center,Meridian,0,0,0,$0
+15,D,St. Luke's Nampa Medical Center,Nampa,87,"4,450","19,157","$619,034"
+16,I,Treasure Valley Hospital,Boise,22,254,593,"$317,492"
+17,D,West Valley Medical Center,Caldwell,112,"3,358","13,401","$604,959"
