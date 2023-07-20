@@ -1,1 +1,2 @@
-RN and RX have 0 record.
+Problem: RN and RX have 0 record.
+Solved: type error, they should be TN and TX. And seems like U.S. doesn't have PR and VI.
