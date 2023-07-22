@@ -1,0 +1,80 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,A,Abrazo Arizona Heart Hospital,Phoenix,0,0,0,$0
+1,Z,Abrazo Arrowhead Campus,Glendale,270,"15,603","69,689","$3,651,546"
+2,A,Abrazo Cave Creek Hospital,Cave Creek,0,0,0,$0
+3,Z,Abrazo Central Campus,Phoenix,177,"5,985","32,810","$1,325,596"
+4,A,Abrazo Scottsdale Campus,Phoenix,128,"4,105","18,415","$1,167,628"
+5,Z,Abrazo Surprise Hospital,Surprise,0,0,0,$0
+6,A,Abrazo West Campus,Goodyear,197,"11,959","61,133","$2,600,494"
+7,Z,Arizona Specialty Hospital,Chandler,24,786,"1,683","$163,107"
+8,A,Arizona Spine and Joint Hospital,Mesa,23,"1,308","1,551","$202,395"
+9,Z,Banner - University Medical Center Tucson,Tucson,505,"24,421","166,079","$3,744,871"
+10,A,Banner - University Medical Center Phoenix,Phoenix,662,"32,942","213,527","$4,629,210"
+11,Z,Banner - University Medical Center South Campus,Tucson,162,"7,080","40,379","$771,843"
+12,A,Banner Baywood Medical Center,Mesa,340,"13,608","79,119","$1,566,602"
+13,Z,Banner Boswell Medical Center,Sun City,501,"15,539","83,444","$1,973,160"
+14,A,Banner Casa Grande Medical Center,Casa Grande,141,"6,083","32,412","$806,346"
+15,Z,Banner Del E. Webb Medical Center,Sun City West,391,"17,407","84,758","$1,855,593"
+16,A,Banner Desert Medical Center,Mesa,629,"33,831","186,657","$3,997,192"
+17,Z,Banner Estrella Medical Center,Phoenix,317,"20,298","97,223","$2,072,003"
+18,A,Banner Gateway Medical Center,Gilbert,185,"12,459","57,768","$2,164,443"
+19,Z,Banner Goldfield Medical Center,Apache Junction,20,922,"3,016","$136,311"
+20,A,Banner Heart Hospital,Mesa,108,"4,942","22,718","$832,153"
+21,Z,Banner Ironwood Medical Center,Queen Creek,89,"5,756","21,190","$552,630"
+22,A,Banner Ocotillo Medical Center,Chandler,94,"3,510","14,883","$367,182"
+23,Z,Banner Thunderbird Medical Center,Glendale,595,"25,358","135,340","$3,067,094"
+24,A,Canyon Vista Medical Center,Sierra Vista,93,"4,012","15,679","$569,778"
+25,Z,Carl T. Hayden Veterans' Administration Medical Center,Phoenix,0,0,0,$0
+26,A,Carondelet Heart & Vascular Institute,Tucson,60,"1,162","4,175","$128,262"
+27,Z,Chandler Regional Medical Center,Chandler,379,"26,654","122,404","$3,933,331"
+28,A,Chinle Comprehensive Health Care Facility,Chinle,60,"1,599","6,112",$0
+29,Z,City of Hope Phoenix Comprehensive Care and Research Center,Goodyear,38,539,"2,237",$0
+30,A,Dignity Health - Arizona General Hospital Laveen,Laveen,16,574,"2,044","$592,167"
+31,Z,Dignity Health - Arizona General Hospital Mesa,Mesa,50,"1,942","10,211","$644,185"
+32,A,East Valley ER & Hospital,Gilbert,0,0,0,$0
+33,Z,Exceptional Community Hospital - Maricopa,Maricopa,0,0,0,$0
+34,A,Flagstaff Medical Center,Flagstaff,268,"11,031","61,354","$1,410,769"
+35,Z,Florence Hospital,Florence,0,0,0,$0
+36,A,Havasu Regional Medical Center,Lake Havasu City,163,"5,515","25,972","$1,508,087"
+37,Z,HonorHealth Deer Valley Medical Center,Phoenix,204,"11,309","59,737","$2,158,889"
+38,A,HonorHealth John C. Lincoln Medical Center,Phoenix,258,"10,659","59,624","$3,050,897"
+39,Z,HonorHealth Scottsdale Osborn Medical Center,Scottsdale,351,"13,585","67,274","$2,633,515"
+40,A,HonorHealth Scottsdale Shea Medical Center,Scottsdale,427,"14,658","101,585","$3,489,078"
+41,Z,HonorHealth Scottsdale Thompson Peak Medical Center,Scottsdale,120,"5,972","27,247","$1,065,510"
+42,A,HonorHealth Sonoran Crossing Medical Center,Phoenix,70,"2,143","9,679","$422,336"
+43,Z,Kingman Regional Medical Center,Kingman,214,"7,675","43,679","$1,932,300"
+44,A,"Mayo Clinic Hospital, Phoenix Arizona",Phoenix,306,"16,494","92,745","$4,366,755"
+45,Z,Mercy Gilbert Medical Center,Gilbert,197,"16,822","69,240","$2,151,847"
+46,A,Mountain Vista Medical Center,Mesa,182,"7,218","32,571","$1,094,254"
+47,Z,Northern Arizona VA Health Care System,Prescott,0,0,0,$0
+48,A,Northwest Medical Center,Tucson,254,"13,020","60,986","$2,869,658"
+49,Z,Northwest Medical Center Sahuarita,Sahuarita,36,"1,506","3,903","$381,015"
+50,A,OASIS Hospital,Phoenix,64,"2,434","5,281","$247,352"
+51,Z,Oro Valley Hospital,Tucson,176,"4,428","18,849","$1,231,039"
+52,A,Phoenix ER & Medical Hospital,Chandler,0,0,0,$0
+53,Z,Phoenix Indian Medical Center,Phoenix,133,"1,310","5,761",$0
+54,A,Saint Joseph's Hospital,Tucson,486,"11,811","57,827","$2,364,178"
+55,Z,Saint Joseph's Westgate Medical Center,Glendale,0,0,0,$0
+56,A,Saint Mary's Hospital,Tucson,408,"7,630","41,755","$1,607,324"
+57,Z,San Carlos Apache Healthcare,Peridot,12,814,"2,951",$0
+58,A,Sells Indian Hospital,Sells,14,174,602,$0
+59,Z,Southern Arizona VA Health Care System,Tucson,0,0,0,$0
+60,A,St. Joseph's Hospital and Medical Center,Phoenix,553,"30,853","172,709","$5,300,955"
+61,Z,Steward Mesa Hospital,Mesa,0,0,0,$0
+62,A,Summit Healthcare Regional Medical Center,Show Low,101,"5,748","21,579","$848,465"
+63,Z,Tempe Saint Luke's Hospital,Tempe,64,"2,844","11,386","$398,332"
+64,A,The CORE Institute Specialty Hospital,Phoenix,28,816,927,"$354,244"
+65,Z,Tsehootsooi Medical Center,Fort Defiance,56,"2,308","7,268",$0
+66,A,Tuba City Indian Medical Center,Tuba City,73,"1,436","7,556",$0
+67,Z,Tucson ER & Hospital,Tucson,0,0,0,$0
+68,A,Tucson Medical Center,Tucson,515,"28,900","136,617","$2,621,744"
+69,Z,Valley View Medical Center,Fort Mohave,84,"1,535","7,181","$507,451"
+70,A,Valleywise Behavioral Health Center-Maryvale,Phoenix,228,"3,640","15,153","$337,726"
+71,Z,Valleywise Health Medical Center,Phoenix,738,"13,185","69,705","$2,562,415"
+72,A,Verde Valley Medical Center,Cottonwood,87,"4,947","21,155","$722,433"
+73,Z,Verde Valley Medical Center - Sedona Campus,Sedona,0,0,0,$0
+74,A,Western Arizona Regional Medical Center,Bullhead City,99,"3,479","19,726","$1,332,685"
+75,Z,Whiteriver Indian Hospital,Whiteriver,40,"1,300","4,188",$0
+76,A,Yavapai Regional Medical Center - East,Prescott Valley,56,"4,182","14,511","$374,590"
+77,Z,Yavapai Regional Medical Center - West,Prescott,213,"15,739","58,215","$1,586,745"
+78,A,Yuma Regional Medical Center,Yuma,406,"12,394","61,819","$2,753,013"
