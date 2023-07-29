@@ -1,35 +1,35 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,W,Beckley ARH Hospital,Beckley,157,"4,207","21,108","$372,347"
-1,V,Beckley VA Medical Center,Beckley,0,0,0,$0
-2,W,Berkeley Medical Center,Martinsburg,186,"7,775","44,097","$688,824"
-3,V,Cabell Huntington Hospital,Huntington,330,"15,178","85,904","$2,275,929"
-4,W,CAMC Teays Valley Hospital,Hurricane,70,"2,228","11,696","$160,164"
-5,V,CAMC Women and Children's Hospital,Charleston,0,0,0,$0
-6,W,Camden Clark Medical Center,Parkersburg,275,"11,375","59,715","$1,068,896"
-7,V,Charleston Area Medical Center General Hospital,Charleston,855,"29,936","177,042","$4,764,701"
-8,W,Charleston Area Medical Center Memorial Hospital,Charleston,0,0,0,$0
-9,V,Charleston Surgical Hospital,Charleston,8,476,758,"$70,879"
-10,W,Davis Medical Center,Elkins,110,"2,327","9,749","$244,366"
-11,V,Fairmont Medical Center,Fairmont,125,"1,584","5,189","$158,013"
-12,W,Greenbrier Valley Medical Center,Ronceverte,71,"2,236","12,307","$253,293"
-13,V,"Hershel ""Woody"" Williams VA Medical Center",Huntington,0,0,0,$0
-14,W,Hoops Family Children's Hospital,Huntington,0,0,0,$0
-15,V,J.W. Ruby Memorial Hospital,Morgantown,675,"32,138","189,739","$3,908,144"
-16,W,Logan Regional Medical Center,Logan,140,"3,993","21,052","$464,791"
-17,V,Louis A. Johnson Veterans' Administration Medical Center,Clarksburg,0,0,0,$0
-18,W,Martinsburg VA Medical Center,Martinsburg,0,0,0,$0
-19,V,Mon Health Marion Neighborhood Hospital,White Hall,10,276,782,"$47,048"
-20,W,Mon Health Medical Center,Morgantown,160,"6,556","34,164","$857,063"
-21,V,Pleasant Valley Hospital,Point Pleasant,49,932,"4,305","$148,006"
-22,W,Raleigh General Hospital,Beckley,300,"10,258","52,095","$768,479"
-23,V,Reynolds Memorial Hospital,Glen Dale,94,"3,619","15,126","$292,169"
-24,W,Saint Francis Hospital,Charleston,65,816,"5,916","$225,062"
-25,V,Saint Mary's Medical Center,Huntington,379,"14,295","97,583","$1,798,155"
-26,W,Stonewall Jackson Memorial Hospital,Weston,49,"1,391","5,662","$152,922"
-27,V,Thomas Memorial Hospital,South Charleston,186,"6,565","34,673","$781,510"
-28,W,United Hospital Center,Bridgeport,264,"11,749","62,893","$1,342,044"
-29,V,Weirton Medical Center,Weirton,167,"5,357","23,238","$702,481"
-30,W,Welch Community Hospital,Welch,76,491,"2,942","$46,046"
-31,V,Wetzel County Hospital,New Martinsville,25,534,"2,176","$86,851"
-32,W,WVU Medicine Princeton Community Hospital,Princeton,179,"6,136","34,971","$718,609"
-33,V,WVU Medicine Wheeling Hospital,Wheeling,333,"10,697","49,068","$1,241,104"
+0,WV,Beckley ARH Hospital,Beckley,157,"4,207","21,108","$372,347"
+1,WV,Beckley VA Medical Center,Beckley,0,0,0,$0
+2,WV,Berkeley Medical Center,Martinsburg,186,"7,775","44,097","$688,824"
+3,WV,Cabell Huntington Hospital,Huntington,330,"15,178","85,904","$2,275,929"
+4,WV,CAMC Teays Valley Hospital,Hurricane,70,"2,228","11,696","$160,164"
+5,WV,CAMC Women and Children's Hospital,Charleston,0,0,0,$0
+6,WV,Camden Clark Medical Center,Parkersburg,275,"11,375","59,715","$1,068,896"
+7,WV,Charleston Area Medical Center General Hospital,Charleston,855,"29,936","177,042","$4,764,701"
+8,WV,Charleston Area Medical Center Memorial Hospital,Charleston,0,0,0,$0
+9,WV,Charleston Surgical Hospital,Charleston,8,476,758,"$70,879"
+10,WV,Davis Medical Center,Elkins,110,"2,327","9,749","$244,366"
+11,WV,Fairmont Medical Center,Fairmont,125,"1,584","5,189","$158,013"
+12,WV,Greenbrier Valley Medical Center,Ronceverte,71,"2,236","12,307","$253,293"
+13,WV,"Hershel ""Woody"" Williams VA Medical Center",Huntington,0,0,0,$0
+14,WV,Hoops Family Children's Hospital,Huntington,0,0,0,$0
+15,WV,J.W. Ruby Memorial Hospital,Morgantown,675,"32,138","189,739","$3,908,144"
+16,WV,Logan Regional Medical Center,Logan,140,"3,993","21,052","$464,791"
+17,WV,Louis A. Johnson Veterans' Administration Medical Center,Clarksburg,0,0,0,$0
+18,WV,Martinsburg VA Medical Center,Martinsburg,0,0,0,$0
+19,WV,Mon Health Marion Neighborhood Hospital,White Hall,10,276,782,"$47,048"
+20,WV,Mon Health Medical Center,Morgantown,160,"6,556","34,164","$857,063"
+21,WV,Pleasant Valley Hospital,Point Pleasant,49,932,"4,305","$148,006"
+22,WV,Raleigh General Hospital,Beckley,300,"10,258","52,095","$768,479"
+23,WV,Reynolds Memorial Hospital,Glen Dale,94,"3,619","15,126","$292,169"
+24,WV,Saint Francis Hospital,Charleston,65,816,"5,916","$225,062"
+25,WV,Saint Mary's Medical Center,Huntington,379,"14,295","97,583","$1,798,155"
+26,WV,Stonewall Jackson Memorial Hospital,Weston,49,"1,391","5,662","$152,922"
+27,WV,Thomas Memorial Hospital,South Charleston,186,"6,565","34,673","$781,510"
+28,WV,United Hospital Center,Bridgeport,264,"11,749","62,893","$1,342,044"
+29,WV,Weirton Medical Center,Weirton,167,"5,357","23,238","$702,481"
+30,WV,Welch Community Hospital,Welch,76,491,"2,942","$46,046"
+31,WV,Wetzel County Hospital,New Martinsville,25,534,"2,176","$86,851"
+32,WV,WVU Medicine Princeton Community Hospital,Princeton,179,"6,136","34,971","$718,609"
+33,WV,WVU Medicine Wheeling Hospital,Wheeling,333,"10,697","49,068","$1,241,104"

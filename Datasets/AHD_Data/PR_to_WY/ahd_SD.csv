@@ -1,24 +1,24 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,S,Avera Dakota Plains Surgery Center,Aberdeen,15,290,770,"$29,256"
-1,D,Avera Fox Run Health Campus,Yankton,10,89,206,"$17,836"
-2,S,Avera Heart Hospital,Sioux Falls,53,"2,456","8,617","$533,341"
-3,D,Avera McKennan Hospital & University Health Center,Sioux Falls,679,"25,515","133,754","$3,707,015"
-4,S,Avera Queen of Peace Hospital,Mitchell,134,"1,633","6,114","$312,590"
-5,D,Avera Sacred Heart Hospital,Yankton,262,"2,813","10,453","$349,664"
-6,S,Avera Saint Luke's Hospital,Aberdeen,197,"2,601","12,093","$601,529"
-7,D,Avera Saint Mary's Hospital,Pierre,130,"1,616","5,581","$333,446"
-8,S,Black Hills Surgical Hospital,Rapid City,26,"1,740","3,896","$221,625"
-9,D,Brookings Hospital,Brookings,128,"1,159","3,933","$151,206"
-10,S,Dunes Surgery Hospital,Dakota Dunes,38,917,"1,989","$342,518"
-11,D,Fort Meade VA Medical Center,Fort Meade,0,0,0,$0
-12,S,Hot Springs VA Medical Center,Hot Springs,0,0,0,$0
-13,D,Monument Health Rapid City Hospital,Rapid City,401,"18,445","103,711","$2,410,891"
-14,S,Monument Health Spearfish Hospital,Spearfish,27,"1,476","4,589","$304,849"
-15,D,Pine Ridge Hospital,Pine Ridge,45,"1,416","4,975",$0
-16,S,Prairie Lakes Hospital,Watertown,81,"2,496","9,110","$280,938"
-17,D,Rosebud Hospital,Rosebud,35,494,"1,706",$0
-18,S,Royal C. Johnson Veterans' Memorial Hospital,Sioux Falls,0,0,0,$0
-19,D,Same Day Surgery Center,Rapid City,6,139,268,"$45,558"
-20,S,Sanford Aberdeen Medical Center,Aberdeen,48,"1,677","4,231","$168,456"
-21,D,Sanford USD Medical Center,Sioux Falls,473,"26,473","117,945","$4,184,839"
-22,S,Sioux Falls Specialty Hospital,Sioux Falls,33,"1,305","1,921","$425,572"
+0,SD,Avera Dakota Plains Surgery Center,Aberdeen,15,290,770,"$29,256"
+1,SD,Avera Fox Run Health Campus,Yankton,10,89,206,"$17,836"
+2,SD,Avera Heart Hospital,Sioux Falls,53,"2,456","8,617","$533,341"
+3,SD,Avera McKennan Hospital & University Health Center,Sioux Falls,679,"25,515","133,754","$3,707,015"
+4,SD,Avera Queen of Peace Hospital,Mitchell,134,"1,633","6,114","$312,590"
+5,SD,Avera Sacred Heart Hospital,Yankton,262,"2,813","10,453","$349,664"
+6,SD,Avera Saint Luke's Hospital,Aberdeen,197,"2,601","12,093","$601,529"
+7,SD,Avera Saint Mary's Hospital,Pierre,130,"1,616","5,581","$333,446"
+8,SD,Black Hills Surgical Hospital,Rapid City,26,"1,740","3,896","$221,625"
+9,SD,Brookings Hospital,Brookings,128,"1,159","3,933","$151,206"
+10,SD,Dunes Surgery Hospital,Dakota Dunes,38,917,"1,989","$342,518"
+11,SD,Fort Meade VA Medical Center,Fort Meade,0,0,0,$0
+12,SD,Hot Springs VA Medical Center,Hot Springs,0,0,0,$0
+13,SD,Monument Health Rapid City Hospital,Rapid City,401,"18,445","103,711","$2,410,891"
+14,SD,Monument Health Spearfish Hospital,Spearfish,27,"1,476","4,589","$304,849"
+15,SD,Pine Ridge Hospital,Pine Ridge,45,"1,416","4,975",$0
+16,SD,Prairie Lakes Hospital,Watertown,81,"2,496","9,110","$280,938"
+17,SD,Rosebud Hospital,Rosebud,35,494,"1,706",$0
+18,SD,Royal C. Johnson Veterans' Memorial Hospital,Sioux Falls,0,0,0,$0
+19,SD,Same Day Surgery Center,Rapid City,6,139,268,"$45,558"
+20,SD,Sanford Aberdeen Medical Center,Aberdeen,48,"1,677","4,231","$168,456"
+21,SD,Sanford USD Medical Center,Sioux Falls,473,"26,473","117,945","$4,184,839"
+22,SD,Sioux Falls Specialty Hospital,Sioux Falls,33,"1,305","1,921","$425,572"

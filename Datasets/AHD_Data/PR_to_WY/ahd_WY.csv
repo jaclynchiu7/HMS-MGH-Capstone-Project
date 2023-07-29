@@ -1,15 +1,15 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,W,Aspen Mountain Medical Center,Rock Springs,0,0,0,$0
-1,Y,Campbell County Memorial Hospital,Gillette,232,"1,986","9,296","$355,702"
-2,W,Cheyenne Regional Medical Center,Cheyenne,217,"8,057","37,596","$968,775"
-3,Y,Cheyenne VA Medical Center,Cheyenne,0,0,0,$0
-4,W,Evanston Regional Hospital,Evanston,32,803,"1,627","$105,109"
-5,Y,Ivinson Memorial Hospital,Laramie,86,"1,250","4,767","$215,766"
-6,W,Memorial Hospital of Sweetwater County,Rock Springs,58,"1,279","4,742","$207,720"
-7,Y,SageWest Lander,Lander,86,"1,542","4,801","$128,783"
-8,W,SageWest Riverton,Riverton,133,"2,215","7,084","$303,912"
-9,Y,Saint John's Health,Jackson,121,"1,711","5,932","$273,723"
-10,W,Sheridan Memorial Hospital,Sheridan,71,"2,524","9,606","$296,755"
-11,Y,Sheridan VA Medical Center,Sheridan,0,0,0,$0
-12,W,Summit Medical Center,Casper,16,89,899,"$87,613"
-13,Y,Wyoming Medical Center,Casper,226,"8,327","42,291","$672,201"
+0,WY,Aspen Mountain Medical Center,Rock Springs,0,0,0,$0
+1,WY,Campbell County Memorial Hospital,Gillette,232,"1,986","9,296","$355,702"
+2,WY,Cheyenne Regional Medical Center,Cheyenne,217,"8,057","37,596","$968,775"
+3,WY,Cheyenne VA Medical Center,Cheyenne,0,0,0,$0
+4,WY,Evanston Regional Hospital,Evanston,32,803,"1,627","$105,109"
+5,WY,Ivinson Memorial Hospital,Laramie,86,"1,250","4,767","$215,766"
+6,WY,Memorial Hospital of Sweetwater County,Rock Springs,58,"1,279","4,742","$207,720"
+7,WY,SageWest Lander,Lander,86,"1,542","4,801","$128,783"
+8,WY,SageWest Riverton,Riverton,133,"2,215","7,084","$303,912"
+9,WY,Saint John's Health,Jackson,121,"1,711","5,932","$273,723"
+10,WY,Sheridan Memorial Hospital,Sheridan,71,"2,524","9,606","$296,755"
+11,WY,Sheridan VA Medical Center,Sheridan,0,0,0,$0
+12,WY,Summit Medical Center,Casper,16,89,899,"$87,613"
+13,WY,Wyoming Medical Center,Casper,226,"8,327","42,291","$672,201"

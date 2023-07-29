@@ -1,12 +1,12 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,R,Kent Hospital,Warwick,343,"12,028","56,833","$1,025,735"
-1,I,Landmark Medical Center,Woonsocket,141,"5,619","25,172","$671,386"
-2,R,Newport Hospital,Newport,109,"4,001","17,071","$365,236"
-3,I,Our Lady of Fatima Hospital,North Providence,312,"3,404","15,666","$552,241"
-4,R,Providence VA Medical Center,Providence,0,0,0,$0
-5,I,Rhode Island Hospital,Providence,704,"29,131","181,306","$4,031,298"
-6,R,Roger Williams Medical Center,Providence,160,"5,986","28,240","$597,794"
-7,I,South County Health,Wakefield,79,"5,600","20,784","$654,637"
-8,R,The Miriam Hospital,Providence,246,"15,516","68,760","$1,610,025"
-9,I,The Westerly Hospital,Westerly,95,"2,998","14,245","$411,416"
-10,R,Women & Infants Hospital,Providence,247,"10,622","67,698","$952,234"
+0,RI,Kent Hospital,Warwick,343,"12,028","56,833","$1,025,735"
+1,RI,Landmark Medical Center,Woonsocket,141,"5,619","25,172","$671,386"
+2,RI,Newport Hospital,Newport,109,"4,001","17,071","$365,236"
+3,RI,Our Lady of Fatima Hospital,North Providence,312,"3,404","15,666","$552,241"
+4,RI,Providence VA Medical Center,Providence,0,0,0,$0
+5,RI,Rhode Island Hospital,Providence,704,"29,131","181,306","$4,031,298"
+6,RI,Roger Williams Medical Center,Providence,160,"5,986","28,240","$597,794"
+7,RI,South County Health,Wakefield,79,"5,600","20,784","$654,637"
+8,RI,The Miriam Hospital,Providence,246,"15,516","68,760","$1,610,025"
+9,RI,The Westerly Hospital,Westerly,95,"2,998","14,245","$411,416"
+10,RI,Women & Infants Hospital,Providence,247,"10,622","67,698","$952,234"
