@@ -1,0 +1,16 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,MT,Benefis East Campus,Great Falls,478,"10,859","58,633","$1,342,203"
+1,MT,Benefis West Campus,Great Falls,0,0,0,$0
+2,MT,Billings Clinic Hospital,Billings,299,"14,908","87,717","$1,298,786"
+3,MT,Blackfeet Community Hospital,Browning,26,363,"1,545",$0
+4,MT,Bozeman Health Deaconess Hospital,Bozeman,124,"6,667","30,317","$737,340"
+5,MT,Community Medical Center,Missoula,151,"4,953","22,385","$586,140"
+6,MT,Fort Harrison VA Medical Center,Fort Harrison,0,0,0,$0
+7,MT,Great Falls Clinic Hospital,Great Falls,20,"1,360","5,040","$334,632"
+8,MT,Logan Health Medical Center,Kalispell,331,"8,120","47,658","$1,061,221"
+9,MT,Montana Children's,Kalispell,0,0,0,$0
+10,MT,Northern Montana Hospital,Havre,184,"1,002","3,751","$151,614"
+11,MT,Providence Saint Patrick Hospital,Missoula,209,"9,753","52,546","$809,903"
+12,MT,Saint Vincent Healthcare,Billings,221,"10,934","54,774","$1,342,105"
+13,MT,St. James Healthcare,Butte,69,"3,279","15,814","$469,080"
+14,MT,St. Peter's Health Regional Medical Center,Helena,125,"5,950","26,437","$545,383"

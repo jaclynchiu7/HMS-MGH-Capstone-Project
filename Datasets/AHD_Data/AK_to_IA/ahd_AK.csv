@@ -1,12 +1,12 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,A,673d Medical Group - Joint Base Elmendorf-Richardson,Joint Base Elmendorf-Richardson,0,0,0,$0
-1,K,Alaska Native Medical Center,Anchorage,174,"8,079","40,053",$0
-2,A,Alaska Regional Hospital,Anchorage,176,"7,205","42,868","$1,749,027"
-3,K,Bartlett Regional Hospital,Juneau,57,"1,506","8,091","$212,228"
-4,A,Bassett Army Community Hospital,Fort Wainwright,0,0,0,$0
-5,K,Central Peninsula Hospital,Soldotna,109,"2,602","11,731","$527,907"
-6,A,Fairbanks Memorial Hospital,Fairbanks,212,"4,358","18,694","$606,088"
-7,K,Mat-Su Regional Medical Center,Palmer,125,"5,213","24,802","$1,071,288"
-8,A,Providence Alaska Children's Hospital,Anchorage,0,0,0,$0
-9,K,Providence Alaska Medical Center,Anchorage,401,"14,617","111,459","$2,746,525"
-10,A,Yukon-Kuskokwim Delta Regional Hospital,Bethel,34,"1,227","3,906",$0
+0,AK,673d Medical Group - Joint Base Elmendorf-Richardson,Joint Base Elmendorf-Richardson,0,0,0,$0
+1,AK,Alaska Native Medical Center,Anchorage,174,"8,079","40,053",$0
+2,AK,Alaska Regional Hospital,Anchorage,176,"7,205","42,868","$1,749,027"
+3,AK,Bartlett Regional Hospital,Juneau,57,"1,506","8,091","$212,228"
+4,AK,Bassett Army Community Hospital,Fort Wainwright,0,0,0,$0
+5,AK,Central Peninsula Hospital,Soldotna,109,"2,602","11,731","$527,907"
+6,AK,Fairbanks Memorial Hospital,Fairbanks,212,"4,358","18,694","$606,088"
+7,AK,Mat-Su Regional Medical Center,Palmer,125,"5,213","24,802","$1,071,288"
+8,AK,Providence Alaska Children's Hospital,Anchorage,0,0,0,$0
+9,AK,Providence Alaska Medical Center,Anchorage,401,"14,617","111,459","$2,746,525"
+10,AK,Yukon-Kuskokwim Delta Regional Hospital,Bethel,34,"1,227","3,906",$0

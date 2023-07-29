@@ -1,0 +1,77 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,NJ,Palisades Medical Center,North Bergen,186,"6,567","31,596","$868,235"
+1,NJ,"AtlantiCare Regional Medical Center, Atlantic City Campus",Atlantic City,540,"25,581","127,462","$3,646,443"
+2,NJ,"AtlantiCare Regional Medical Center, Mainland Campus",Pomona,0,0,0,$0
+3,NJ,Bayonne Medical Center,Bayonne,152,"4,004","21,452","$2,340,765"
+4,NJ,Bayshore Medical Center,Holmdel,175,"7,654","40,326","$928,987"
+5,NJ,Bergen New Bridge Medical Center,Paramus,"1,020","4,260","17,034","$539,821"
+6,NJ,Cape Regional Medical Center,Cape May Court House,149,"6,281","26,701","$903,199"
+7,NJ,Capital Health Medical Center - Hopewell,Pennington,203,"11,145","60,204","$6,390,189"
+8,NJ,Capital Health Regional Medical Center,Trenton,179,"6,943","49,588","$4,594,857"
+9,NJ,CareWell Health Medical Center,East Orange,201,"4,178","19,879","$429,945"
+10,NJ,CentraState Medical Center,Freehold,239,"12,310","64,053","$1,144,597"
+11,NJ,Chilton Medical Center,Pompton Plains,200,"7,954","35,608",$0
+12,NJ,Christ Hospital,Jersey City,163,"5,617","38,324","$3,089,150"
+13,NJ,Clara Maass Medical Center,Belleville,342,"13,505","73,834","$1,626,392"
+14,NJ,Community Medical Center,Toms River,438,"23,278","116,408","$2,298,168"
+15,NJ,Cooper University Hospital,Camden,564,"33,090","186,283","$5,694,688"
+16,NJ,Cooperman Barnabas Medical Center,Livingston,544,"32,919","164,215","$3,811,641"
+17,NJ,Deborah Heart and Lung Center,Browns Mills,86,"3,838","21,081","$1,076,332"
+18,NJ,East Orange VA Medical Center,East Orange,0,0,0,$0
+19,NJ,Englewood Health,Englewood,288,"14,711","68,791","$5,326,963"
+20,NJ,Hackensack Meridian Mountainside Medical Center,Montclair,219,"9,216","41,683","$1,252,232"
+21,NJ,Hackensack Meridian Pascack Valley Medical Center,Westwood,78,"4,111","15,694","$530,067"
+22,NJ,Hackensack Meridian Southern Ocean Medical Center,Manahawkin,167,"7,604","34,684","$1,068,228"
+23,NJ,Hackensack University Medical Center,Hackensack,702,"40,402","223,864","$6,449,047"
+24,NJ,Hackettstown Medical Center,Hackettstown,82,"3,859","18,202","$721,513"
+25,NJ,Hoboken University Medical Center,Hoboken,180,"3,718","19,516","$2,473,233"
+26,NJ,Holy Name Medical Center,Teaneck,312,"9,285","57,100","$1,775,219"
+27,NJ,Hudson Regional Hospital,Secaucus,106,"3,803","14,178","$1,088,646"
+28,NJ,Hunterdon Medical Center,Flemington,184,"8,070","39,644","$1,151,341"
+29,NJ,Inspira Medical Center Elmer,Elmer,275,"13,139","65,690","$1,701,543"
+30,NJ,Inspira Medical Center Mullica Hill,Mullica Hill,0,0,0,$0
+31,NJ,Inspira Medical Center Vineland,Vineland,347,"15,668","81,379","$2,358,267"
+32,NJ,Jefferson Washington Township Hospital,Turnersville,0,0,0,$0
+33,NJ,Jefferson Cherry Hill Hospital,Cherry Hill,546,"25,430","123,152","$3,780,605"
+34,NJ,Jefferson Stratford Hospital,Stratford,0,0,0,$0
+35,NJ,Jersey City Medical Center,Jersey City,340,"15,024","68,514","$2,067,116"
+36,NJ,Jersey Shore University Medical Center,Neptune,604,"32,203","164,101","$4,294,402"
+37,NJ,JFK University Medical Center,Edison,439,"19,037","94,966","$2,939,630"
+38,NJ,"LTACH - CareOne at Hackensack University Medical Center, Pascack Valley",Westwood,0,0,0,$0
+39,NJ,LTACH CareOne at Trinitas Regional Medical Center,Elizabeth,0,0,0,$0
+40,NJ,Lyons VA Medical Center,Lyons,0,0,0,$0
+41,NJ,Monmouth Medical Center,Long Branch,291,"20,344","63,333","$1,707,687"
+42,NJ,Monmouth Medical Center Southern Campus,Lakewood,201,"5,426","36,727","$695,262"
+43,NJ,Morristown Medical Center,Morristown,739,"41,675","205,621",$0
+44,NJ,Newark Beth Israel Medical Center,Newark,470,"17,466","111,808","$2,640,826"
+45,NJ,Newton Medical Center,Newton,155,"7,930","37,553","$1,727,569"
+46,NJ,Ocean University Medical Center,Brick,355,"15,968","79,739","$2,065,752"
+47,NJ,Old Bridge Medical Center,Old Bridge,0,0,0,$0
+48,NJ,Overlook Medical Center,Summit,482,"21,622","95,000",$0
+49,NJ,Princeton House Behavioral Health,Princeton,0,0,0,$0
+50,NJ,Princeton Medical Center,Plainsboro,355,"14,725","60,316","$2,544,107"
+51,NJ,Raritan Bay Medical Center,Perth Amboy,303,"11,552","58,379","$1,301,302"
+52,NJ,Riverview Medical Center,Red Bank,289,"13,797","56,564","$1,501,394"
+53,NJ,Robert Wood Johnson University Hospital at Rahway,Rahway,139,"5,149","27,389","$843,627"
+54,NJ,Robert Wood Johnson University Hospital New Brunswick,New Brunswick,639,"32,842","188,436","$6,400,597"
+55,NJ,Robert Wood Johnson University Hospital Somerset,Somerville,347,"14,037","70,727","$2,033,269"
+56,NJ,RWJ University Hospital Hamilton,Hamilton,152,"6,039","32,055","$1,250,582"
+57,NJ,Saint Clare's Denville Hospital,Denville,375,"13,107","52,112","$1,464,559"
+58,NJ,Saint Clare's Dover Hospital,Dover,243,3,29,"$79,118"
+59,NJ,Saint Joseph's University Medical Center,Paterson,698,"26,323","169,969","$3,845,991"
+60,NJ,Saint Joseph's Wayne Medical Center,Wayne,141,"6,040","35,308","$310,154"
+61,NJ,Saint Mary's General Hospital,Passaic,169,"5,761","26,294","$814,571"
+62,NJ,Saint Michael's Medical Center,Newark,147,"5,306","27,061","$908,029"
+63,NJ,Saint Peter's University Hospital,New Brunswick,354,"17,400","88,546","$3,482,542"
+64,NJ,Salem Medical Center,Salem,126,"2,247","10,323","$414,564"
+65,NJ,Shore Medical Center,Somers Point,199,"7,937","37,457","$1,181,806"
+66,NJ,St. Luke's Warren Campus,Phillipsburg,92,"4,331","19,488","$1,369,898"
+67,NJ,The University Hospital,Newark,358,"16,404","110,430","$3,023,091"
+68,NJ,The Valley Hospital,Ridgewood,335,"17,641","103,298","$2,864,764"
+69,NJ,Trinitas Regional Medical Center,Elizabeth,442,"7,756","41,414","$1,399,390"
+70,NJ,Valley-Mount Sinai Comprehensive Cancer Care,Paramus,0,0,0,$0
+71,NJ,Virtua Marlton Hospital,Marlton,0,0,0,$0
+72,NJ,Virtua Mount Holly Hospital,Mount Holly,334,"15,680","67,706","$2,400,864"
+73,NJ,Virtua Our Lady of Lourdes Hospital,Camden,336,"12,005","59,999","$2,860,235"
+74,NJ,Virtua Voorhees Hospital,Voorhees,587,"30,414","139,329","$5,278,435"
+75,NJ,Virtua Willingboro Hospital,Willingboro,169,"4,468","26,422","$778,638"

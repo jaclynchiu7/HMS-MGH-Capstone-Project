@@ -1,20 +1,20 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,M,Cary Medical Center,Caribou,49,"1,159","7,674","$130,662"
-1,E,Central Maine Medical Center,Lewiston,199,"7,709","37,840","$1,096,678"
-2,M,Franklin Memorial Hospital,Farmington,41,"1,556","8,453","$248,186"
-3,E,Maine Medical Center,Portland,660,"26,532","187,258","$4,053,302"
-4,M,Maine VA Medical Center,Augusta,0,0,0,$0
-5,E,MaineGeneral Health,Augusta,198,"9,854","61,166","$1,350,003"
-6,M,Mid Coast Hospital,Brunswick,93,"4,174","25,572","$536,035"
-7,E,Northern Light AR Gould Hospital,Presque Isle,96,"1,450","8,940","$437,452"
-8,M,Northern Light Eastern Maine Medical Center,Bangor,377,"15,934","110,353","$3,664,711"
-9,E,Northern Light Inland Hospital,Waterville,33,817,"5,803","$155,752"
-10,M,Northern Light Maine Coast Hospital,Ellsworth,45,"1,815","8,749","$275,388"
-11,E,Northern Light Mercy Hospital,Portland,77,"3,646","15,510",$0
-12,M,Northern Maine Medical Center,Fort Kent,94,"1,129","4,856","$107,304"
-13,E,Pen Bay Medical Center,Rockport,165,"2,492","18,729","$408,330"
-14,M,Saint Mary's Regional Medical Center,Lewiston,381,"4,462","22,200","$641,405"
-15,E,Southern Maine Health Care,Biddeford,180,"6,467","36,876","$884,453"
-16,M,St. Joseph Hospital,Bangor,99,"3,445","19,669","$453,113"
-17,E,The Barbara Bush Children's Hospital at Maine Medical Center,Portland,0,0,0,$0
-18,M,York Hospital,York,54,"2,404","11,071","$491,079"
+0,ME,Cary Medical Center,Caribou,49,"1,159","7,674","$130,662"
+1,ME,Central Maine Medical Center,Lewiston,199,"7,709","37,840","$1,096,678"
+2,ME,Franklin Memorial Hospital,Farmington,41,"1,556","8,453","$248,186"
+3,ME,Maine Medical Center,Portland,660,"26,532","187,258","$4,053,302"
+4,ME,Maine VA Medical Center,Augusta,0,0,0,$0
+5,ME,MaineGeneral Health,Augusta,198,"9,854","61,166","$1,350,003"
+6,ME,Mid Coast Hospital,Brunswick,93,"4,174","25,572","$536,035"
+7,ME,Northern Light AR Gould Hospital,Presque Isle,96,"1,450","8,940","$437,452"
+8,ME,Northern Light Eastern Maine Medical Center,Bangor,377,"15,934","110,353","$3,664,711"
+9,ME,Northern Light Inland Hospital,Waterville,33,817,"5,803","$155,752"
+10,ME,Northern Light Maine Coast Hospital,Ellsworth,45,"1,815","8,749","$275,388"
+11,ME,Northern Light Mercy Hospital,Portland,77,"3,646","15,510",$0
+12,ME,Northern Maine Medical Center,Fort Kent,94,"1,129","4,856","$107,304"
+13,ME,Pen Bay Medical Center,Rockport,165,"2,492","18,729","$408,330"
+14,ME,Saint Mary's Regional Medical Center,Lewiston,381,"4,462","22,200","$641,405"
+15,ME,Southern Maine Health Care,Biddeford,180,"6,467","36,876","$884,453"
+16,ME,St. Joseph Hospital,Bangor,99,"3,445","19,669","$453,113"
+17,ME,The Barbara Bush Children's Hospital at Maine Medical Center,Portland,0,0,0,$0
+18,ME,York Hospital,York,54,"2,404","11,071","$491,079"

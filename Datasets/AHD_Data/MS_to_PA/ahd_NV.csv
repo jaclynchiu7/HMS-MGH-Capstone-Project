@@ -1,0 +1,31 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,NV,99th Medical Group - Nellis Air Force Base,Nellis Air Force Base,0,0,0,$0
+1,NV,Carson Tahoe Regional Medical Center,Carson City,211,"10,106","48,679","$1,278,237"
+2,NV,Carson Tahoe Sierra Surgery,Carson City,15,746,"1,772","$104,781"
+3,NV,Centennial Hills Hospital Medical Center,Las Vegas,309,"16,585","88,142","$3,383,711"
+4,NV,"Dignity Health - St. Rose Dominican Hospital, Rose de Lima Campus - Henderson, NV",Henderson,10,226,"2,868","$209,727"
+5,NV,Dignity Health - St. Rose Dominican Siena Campus,Henderson,326,"19,212","105,036","$3,796,524"
+6,NV,Dignity Health Saint Rose Dominican North Las Vegas Campus,North Las Vegas,32,757,"2,499","$610,995"
+7,NV,Dignity Health Saint Rose Dominican Sahara Campus,Las Vegas,0,0,0,$0
+8,NV,Dignity Health St. Rose Dominican Blue Diamond Campus,Las Vegas,0,0,0,$0
+9,NV,"Dignity Health-Saint Rose Dominican, West Flamingo Campus",Las Vegas,0,0,0,$0
+10,NV,Dignity Health-St. Rose Dominican San Martin Campus,Las Vegas,130,"8,345","37,090","$1,492,022"
+11,NV,Henderson Hospital,Henderson,200,"15,921","71,809","$3,533,758"
+12,NV,MountainView Hospital,Las Vegas,417,"24,836","131,470","$5,551,196"
+13,NV,North Las Vegas VA Medical Center,Las Vegas,0,0,0,$0
+14,NV,North Vista Hospital,North Las Vegas,206,"7,428","43,335","$762,014"
+15,NV,Northeastern Nevada Regional Hospital,Elko,59,"1,999","6,235",$0
+16,NV,Northern Nevada Medical Center,Sparks,124,"4,559","19,971","$1,262,944"
+17,NV,Northern Nevada Sierra Medical Center,Reno,0,0,0,$0
+18,NV,Renown Regional Medical Center,Reno,509,"25,693","164,343","$3,792,456"
+19,NV,Renown South Meadows Medical Center,Reno,138,"4,089","15,970","$663,181"
+20,NV,Saint Mary's Regional Medical Center,Reno,380,"11,341","63,246","$1,300,909"
+21,NV,Southern Hills Hospital & Medical Center,Las Vegas,265,"12,827","55,053","$2,727,629"
+22,NV,Spring Valley Hospital Medical Center,Las Vegas,338,"16,178","89,768","$3,873,755"
+23,NV,Summerlin Hospital Medical Center,Las Vegas,438,"22,461","119,601","$4,978,363"
+24,NV,Sunrise Children's Hospital,Las Vegas,0,0,0,$0
+25,NV,Sunrise Hospital & Medical Center,Las Vegas,718,"36,907","224,018","$9,603,473"
+26,NV,UMC Children's Hospital,Las Vegas,0,0,0,$0
+27,NV,University Medical Center,Las Vegas,514,"21,901","158,609","$4,123,141"
+28,NV,VA Sierra Nevada Health Care System,Reno,0,0,0,$0
+29,NV,Valley Hospital Medical Center,Las Vegas,297,"14,467","88,338","$3,672,506"

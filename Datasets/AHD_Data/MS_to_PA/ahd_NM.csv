@@ -1,0 +1,38 @@
+,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
+0,NM,Santa Fe Indian Hospital,Santa Fe,0,0,0,$0
+1,NM,Albuquerque ER & Hospital,Albuquerque,0,0,0,$0
+2,NM,Alta Vista Regional Hospital,Las Vegas,46,548,"2,715","$160,458"
+3,NM,Artesia General Hospital,Artesia,34,721,"2,275","$187,195"
+4,NM,Carlsbad Medical Center,Carlsbad,74,"1,568","5,876","$382,455"
+5,NM,CHRISTUS Saint Vincent Regional Medical Center,Santa Fe,224,"10,448","47,779","$1,816,207"
+6,NM,CHRISTUS St. Vincent Orthopaedic Specialty Clinic,Santa Fe,12,325,828,"$31,559"
+7,NM,Covenant Health Hobbs Hospital,Hobbs,61,"1,979","5,693","$201,812"
+8,NM,Crownpoint Health Care Facility,Crownpoint,18,273,"1,129",$0
+9,NM,Eastern New Mexico Medical Center,Roswell,162,"4,996","26,606","$788,694"
+10,NM,Gallup Indian Medical Center,Gallup,74,"2,486","11,575",$0
+11,NM,Gerald Champion Regional Medical Center,Alamogordo,98,"3,053","12,941","$1,148,106"
+12,NM,Guadalupe County Hospital,Santa Rosa,10,118,416,"$16,277"
+13,NM,Los Alamos Medical Center,Los Alamos,47,539,"1,883","$164,572"
+14,NM,Lovelace Medical Center,Albuquerque,286,"12,602","67,915","$2,429,128"
+15,NM,Lovelace Regional Hospital,Roswell,27,"1,586","5,877","$313,120"
+16,NM,Lovelace Westside Hospital,Albuquerque,86,"2,437","8,684","$516,182"
+17,NM,Lovelace Women's Hospital,Albuquerque,160,"6,840","31,845","$1,260,831"
+18,NM,Memorial Medical Center,Las Cruces,199,"8,470","38,217","$1,540,621"
+19,NM,Mescalero Service Unit,Mescalero,6,0,0,$0
+20,NM,MountainView Regional Medical Center,Las Cruces,176,"8,005","41,564","$1,319,850"
+21,NM,Plains Regional Medical Center,Clovis,106,"7,969","11,188","$305,606"
+22,NM,Presbyterian Espanola Hospital,Espanola,70,"1,795","6,822","$192,778"
+23,NM,Presbyterian Hospital,Albuquerque,716,"43,929","207,925","$3,910,280"
+24,NM,Presbyterian Kaseman Hospital,Albuquerque,85,"1,554","6,059","$215,707"
+25,NM,Presbyterian Rust Medical Center,Rio Rancho,0,0,0,$0
+26,NM,Presbyterian Santa Fe Medical Center,Santa Fe,36,"2,292","6,201","$218,632"
+27,NM,Raymond G. Murphy VA Medical Center,Albuquerque,0,0,0,$0
+28,NM,Rehoboth McKinley Christian Health Care Services Hospital,Gallup,52,"1,702","7,174","$229,056"
+29,NM,Roosevelt General Hospital,Portales,12,406,"1,634","$102,527"
+30,NM,San Juan Regional Medical Center,Farmington,207,"9,087","44,609","$1,028,477"
+31,NM,The Heart Hospital of New Mexico at Lovelace Medical Center,Albuquerque,55,"2,817","12,085","$258,668"
+32,NM,The Northern Navajo Medical Center,Shiprock,60,"1,964","9,058",$0
+33,NM,Three Crosses Regional Hospital,Las Cruces,46,276,958,"$64,374"
+34,NM,UNM Hospital,Albuquerque,554,"23,577","187,590","$2,487,945"
+35,NM,UNM Sandoval Regional Medical Center,Rio Rancho,60,"3,152","15,260","$246,957"
+36,NM,Zuni Comprehensive Health Center,Zuni,27,601,"1,817",$0

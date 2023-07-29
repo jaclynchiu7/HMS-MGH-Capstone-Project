@@ -1,224 +1,224 @@
 ,State,Hospital_Name,City,Staffed_Beds,Total_Discharges,Patient_Days,Gross_Patient_Revenue
-0,F,96th Medical Group - Eglin Air Force Base,Eglin Air Force Base,0,0,0,$0
-1,L,AdventHealth Altamonte Springs,Altamonte Springs,0,0,0,$0
-2,F,AdventHealth Apopka,Apopka,0,0,0,$0
-3,L,AdventHealth Carrollwood,Tampa,103,"6,566","30,083","$1,223,761"
-4,F,AdventHealth Celebration,Celebration,0,0,0,$0
-5,L,AdventHealth Dade City,Dade City,120,"4,644","16,524",$0
-6,F,AdventHealth Daytona Beach,Daytona Beach,362,"18,031","99,725","$2,276,874"
-7,L,AdventHealth DeLand,DeLand,164,"7,731","36,976","$903,260"
-8,F,AdventHealth East Orlando,Orlando,0,0,0,$0
-9,L,AdventHealth Fish Memorial,Orange City,257,"9,628","51,168","$1,010,901"
-10,F,AdventHealth Heart of Florida,Davenport,193,"8,979","44,993","$2,018,584"
-11,L,AdventHealth Kissimmee,Kissimmee,0,0,0,$0
-12,F,AdventHealth Lake Placid,Lake Placid,0,0,0,$0
-13,L,AdventHealth Lake Wales,Lake Wales,29,"3,461","17,585","$647,981"
-14,F,AdventHealth New Smyrna Beach,New Smyrna Beach,109,"5,396","26,640","$564,216"
-15,L,AdventHealth North Pinellas,Tarpon Springs,168,"5,015","26,164","$666,524"
-16,F,AdventHealth Ocala,Ocala,385,"18,024","84,663",$0
-17,L,AdventHealth Orlando,Orlando,"2,904","130,555","772,819","$24,812,983"
-18,F,AdventHealth Palm Coast,Palm Coast,99,"8,569","44,391","$1,070,213"
-19,L,AdventHealth Pepin Heart Institute,Tampa,0,0,0,$0
-20,F,AdventHealth Sebring,Sebring,204,"11,167","58,893","$1,521,524"
-21,L,AdventHealth Tampa,Tampa,626,"22,379","123,045","$3,606,321"
-22,F,AdventHealth Waterman,Tavares,280,"14,274","67,436","$1,657,465"
-23,L,AdventHealth Wesley Chapel,Wesley Chapel,169,"10,151","41,342","$1,795,820"
-24,F,AdventHealth Winter Garden,Winter Garden,0,0,0,$0
-25,L,AdventHealth Winter Park,Winter Park,0,0,0,$0
-26,F,AdventHealth Zephyrhills,Zephyrhills,149,"9,970","42,350","$1,256,403"
-27,L,Ascension Sacred Heart Bay,Panama City,169,"7,608","42,710","$1,087,119"
-28,F,Ascension Sacred Heart Emerald Coast,Miramar Beach,80,"5,525","18,798","$876,330"
-29,L,Ascension Sacred Heart Gulf,Port Saint Joe,19,425,"1,517","$85,115"
-30,F,Ascension Sacred Heart Pensacola Hospital,Pensacola,557,"25,679","132,107","$3,824,913"
-31,L,Ascension St. Vincent's Clay County Hospital,Middleburg,134,"7,496","34,594","$908,673"
-32,F,Ascension St. Vincent's Health Center - St. Johns,St. Augustine,0,0,0,$0
-33,L,Ascension St. Vincent's Riverside Hospital,Jacksonville,453,"18,063","95,966","$2,890,091"
-34,F,Ascension St. Vincent's Southside Hospital,Jacksonville,263,"9,053","40,538","$1,375,551"
-35,L,Ascension St. Vincent's St. Johns County Hospital,St. Johns,0,0,0,$0
-36,F,Baptist Heart Hospital,Jacksonville,0,0,0,$0
-37,L,Baptist Hospital,Miami,948,"27,424","200,733","$6,902,086"
-38,F,Baptist Hospital,Pensacola,339,"15,075","77,257","$2,778,968"
-39,L,Baptist Medical Center Beaches,Jacksonville Beach,135,"7,721","35,997","$880,001"
-40,F,Baptist Medical Center Clay,Fleming Island,0,0,0,$0
-41,L,Baptist Medical Center Jacksonville,Jacksonville,930,"42,129","275,644","$7,747,612"
-42,F,Baptist Medical Center Nassau,Fernandina Beach,54,"3,334","13,666","$422,420"
-43,L,Baptist Medical Center South,Jacksonville,0,0,0,$0
-44,F,Bartow Regional Medical Center,Bartow,72,"3,377","15,035","$420,743"
-45,L,Bascom Palmer Eye Institute,Miami,56,51,165,"$558,211"
-46,F,Bay Pines VA Healthcare System,Bay Pines,0,0,0,$0
-47,L,BayCare Hospital Wesley Chapel,Wesley Chapel,0,0,0,$0
-48,F,Bayfront Health St. Petersburg,Saint Petersburg,305,"13,214","63,462","$2,369,625"
-49,L,Bethesda Hospital East,Boynton Beach,442,"16,278","89,754","$2,371,704"
-50,F,Bethesda Hospital West,Boynton Beach,0,0,0,$0
-51,L,Boca Raton Regional Hospital,Boca Raton,361,"20,090","83,647","$3,418,007"
-52,F,Bravera Health Brooksville,Brooksville,244,"8,417","35,367","$1,196,864"
-53,L,Bravera Health Seven Rivers,Crystal River,121,"6,343","27,341","$1,194,513"
-54,F,Bravera Health Spring Hill,Spring Hill,88,"4,933","19,869","$90,265"
-55,L,Broward Health Coral Springs,Coral Springs,224,"10,619","56,348","$1,042,606"
-56,F,Broward Health Imperial Point,Fort Lauderdale,204,"4,303","11,912","$560,409"
-57,L,Broward Health Medical Center,Fort Lauderdale,632,"20,326","128,909","$2,534,774"
-58,F,Broward Health North,Deerfield Beach,334,"11,251","59,708","$1,280,156"
-59,L,Bruce W. Carter Department of Veterans Affairs Medical Center,Miami,0,0,0,$0
-60,F,Cape Canaveral Hospital,Cocoa Beach,150,"7,369","28,638","$781,438"
-61,L,Cape Coral Hospital,Cape Coral,291,"18,583","84,930","$1,705,801"
-62,F,Cleveland Clinic Florida / Weston Hospital,Weston,230,"12,893","70,746","$1,609,342"
-63,L,Cleveland Clinic Indian River Hospital,Vero Beach,332,"14,447","66,965","$1,420,279"
-64,F,Cleveland Clinic Martin North Hospital,Stuart,521,"27,626","129,762","$3,296,277"
-65,L,Cleveland Clinic Martin South Hospital,Stuart,0,0,0,$0
-66,F,Cleveland Clinic Tradition Hospital,Port St. Lucie,0,0,0,$0
-67,L,Coral Gables Hospital,Coral Gables,245,"5,190","23,851","$1,232,676"
-68,F,Delray Medical Center,Delray Beach,508,"19,531","90,063","$4,212,783"
-69,L,DeSoto Memorial Hospital,Arcadia,49,598,"2,208","$165,189"
-70,F,Doctors Hospital,Coral Gables,130,"4,990","23,291","$977,561"
-71,L,Doctors' Memorial Hospital,Perry,48,390,"1,692","$52,406"
-72,F,Ed Fraser Memorial Hospital,MacClenny,89,298,792,"$70,786"
-73,L,Flagler Hospital,Saint Augustine,335,"12,716","66,557","$1,436,542"
-74,F,Florida Medical Center,Fort Lauderdale,434,"9,083","49,815","$839,316"
-75,L,Florida State Hospital,Chattahoochee,58,0,"1,895","$2,572"
-76,F,Good Samaritan Medical Center,West Palm Beach,333,"10,591","51,921","$2,687,707"
-77,L,Gulf Breeze Hospital,Gulf Breeze,65,"3,228","13,235","$771,729"
-78,F,Gulf Coast Medical Center,Fort Myers,699,"23,639","135,245","$2,839,090"
-79,L,Halifax Health - Medical Center of Port Orange,Port Orange,0,0,0,$0
-80,F,Halifax Health Medical Center of Daytona Beach,Daytona Beach,573,"24,030","121,420","$2,337,202"
-81,L,Halifax Health UF Health - Medical Center of Deltona,Deltona,43,"1,534","6,122","$201,616"
-82,F,HCA Florida Aventura Hospital,Aventura,467,"18,557","102,662","$3,348,745"
-83,L,HCA Florida Bayonet Point Hospital,Hudson,290,"17,134","79,020","$3,856,700"
-84,F,HCA Florida Blake Hospital,Bradenton,383,"13,717","78,602","$2,786,756"
-85,L,HCA Florida Brandon Hospital,Brandon,422,"21,964","97,198","$5,060,533"
-86,F,HCA Florida Capital Hospital,Tallahassee,266,"16,605","76,213","$2,672,987"
-87,L,HCA Florida Citrus Hospital,Inverness,204,"10,583","48,113","$2,448,822"
-88,F,HCA Florida Englewood Hospital,Englewood,100,"3,834","14,409","$851,424"
-89,L,HCA Florida Fawcett Hospital,Port Charlotte,253,"10,601","52,719","$2,543,664"
-90,F,HCA Florida Fort Walton-Destin Hospital,Fort Walton Beach,267,"11,893","58,420","$3,713,800"
-91,L,HCA Florida Gulf Coast Hospital,Panama City,223,"14,775","68,718","$3,048,908"
-92,F,HCA Florida Highlands Hospital,Sebring,109,"3,962","16,378","$678,231"
-93,L,HCA Florida JFK Hospital,Atlantis,700,"29,458","145,258","$6,651,103"
-94,F,HCA Florida JFK North Hospital,West Palm Beach,229,"5,660","23,739","$743,224"
-95,L,HCA Florida Kendall Hospital,Miami,447,"21,190","111,842","$5,113,189"
-96,F,HCA Florida Lake City Hospital,Lake City,91,"7,218","32,721","$1,396,642"
-97,L,HCA Florida Lake Monroe Hospital,Sanford,221,"9,247","46,311","$1,791,286"
-98,F,HCA Florida Largo Hospital,Largo,346,"11,641","68,796","$3,637,174"
-99,L,HCA Florida Largo West Hospital,Largo,177,"4,886","22,705","$199,048"
-100,F,HCA Florida Lawnwood Hospital,Fort Pierce,430,"19,680","104,098","$4,403,175"
-101,L,HCA Florida Memorial Hospital,Jacksonville,429,"18,899","98,840","$4,684,311"
-102,F,HCA Florida Mercy Hospital,Miami,369,"17,840","89,857","$3,892,351"
-103,L,HCA Florida North Florida Hospital,Gainesville,495,"28,028","142,646","$6,504,175"
-104,F,HCA Florida Northside Hospital,Saint Petersburg,230,"9,712","43,179","$2,072,509"
-105,L,HCA Florida Northwest Hospital,Margate,289,"15,115","70,287","$2,655,163"
-106,F,HCA Florida Oak Hill Hospital,Brooksville,350,"21,523","98,997","$3,998,507"
-107,L,HCA Florida Ocala Hospital,Ocala,510,"33,788","149,645","$6,614,768"
-108,F,HCA Florida Orange Park Hospital,Orange Park,343,"17,265","96,856","$4,754,313"
-109,L,HCA Florida Osceola Hospital,Kissimmee,404,"18,902","108,394","$4,526,793"
-110,F,HCA Florida Palms West Hospital,Loxahatchee,204,"12,974","57,831","$2,085,196"
-111,L,HCA Florida Pasadena Hospital,Saint Petersburg,187,"3,799","17,727","$1,093,635"
-112,F,HCA Florida Poinciana Hospital,Kissimmee,76,"4,165","20,966","$1,385,901"
-113,L,HCA Florida Putnam Hospital,Palatka,87,"4,836","20,724","$774,162"
-114,F,HCA Florida Raulerson Hospital,Okeechobee,100,"3,664","16,371","$662,468"
-115,L,HCA Florida Sarasota Doctors Hospital,Sarasota,155,"8,235","34,125","$1,804,719"
-116,F,HCA Florida South Shore Hospital,Sun City Center,138,"6,119","26,564","$1,166,024"
-117,L,HCA Florida South Tampa Hospital,Tampa,247,"5,244","23,784","$1,528,666"
-118,F,HCA Florida St. Lucie Hospital,Port Saint Lucie,207,"12,429","54,905","$2,507,149"
-119,L,HCA Florida St. Petersburg Hospital,Saint Petersburg,168,"6,009","23,091","$1,561,218"
-120,F,HCA Florida Trinity Hospital,Trinity,330,"16,535","71,575","$3,513,256"
-121,L,HCA Florida Twin Cities Hospital,Niceville,65,"2,185","10,046","$841,131"
-122,F,HCA Florida University Hospital,Davie,0,0,0,$0
-123,L,HCA Florida West Hospital,Pensacola,391,"18,283","84,683","$3,513,246"
-124,F,HCA Florida West Marion Hospital,Ocala,0,0,0,$0
-125,L,HCA Florida West Tampa Hospital,Tampa,201,"3,184","14,911","$545,181"
-126,F,HCA Florida Westside Hospital,Plantation,250,"13,673","65,736","$2,678,358"
-127,L,HCA Florida Woodmont Hospital,Tamarac,317,"6,885","35,542","$1,493,805"
-128,F,Healthmark Regional Medical Center,Defuniak Springs,44,278,"1,400","$28,943"
-129,L,HealthPark Medical Center,Fort Myers,0,0,0,$0
-130,F,Hialeah Hospital,Hialeah,340,"7,679","40,560","$1,416,568"
-131,L,Holmes Regional Medical Center,Melbourne,550,"29,193","145,385","$3,118,216"
-132,F,Holy Cross Health,Fort Lauderdale,367,"13,114","62,243","$2,465,723"
-133,L,Homestead Hospital,Homestead,182,"6,734","30,263","$1,319,073"
-134,F,Jackson Hospital,Marianna,66,"2,280","12,239","$202,812"
-135,L,Jackson Memorial Hospital,Miami,"2,099","62,137","417,238","$6,575,093"
-136,F,Jackson North Medical Center,North Miami Beach,0,0,0,$0
-137,L,Jackson South Medical Center,Miami,192,"8,219","40,306","$164,920"
-138,F,Jackson West Medical Center,Doral,0,0,0,$0
-139,L,James A. Haley Veterans' Hospital,Tampa,0,0,0,$0
-140,F,Jay Hospital,Jay,21,309,"1,529","$57,946"
-141,L,Jupiter Medical Center,Jupiter,242,"13,240","58,706","$1,641,901"
-142,F,Keralty Hospital,Miami,125,"1,844","13,030","$158,762"
-143,L,Lake City VA Medical Center,Lake City,0,0,0,$0
-144,F,Lakeland Regional Health Medical Center,Lakeland,864,"40,440","209,204","$5,009,501"
-145,L,Lakeside Medical Center,Belle Glade,54,779,"4,194","$128,545"
-146,F,Lakewood Ranch Medical Center,Lakewood Ranch,120,"7,608","33,044","$1,411,954"
-147,L,Larkin Community Hospital Palm Springs Campus,Hialeah,119,"2,978","23,387","$339,622"
-148,F,Larkin Community Hospital South Miami,South Miami,128,"4,565","22,754","$355,512"
-149,L,Lee Memorial Hospital,Fort Myers,846,"42,715","185,691","$5,629,639"
-150,F,Lehigh Regional Medical Center,Lehigh Acres,88,"2,210","10,707","$301,322"
-151,L,Lower Keys Medical Center,Key West,122,"2,435","9,497","$475,044"
-152,F,Malcom Randall Department of Veterans Affairs Medical Center,Gainesville,0,0,0,$0
-153,L,Manatee Memorial Hospital,Bradenton,295,"18,236","87,972","$3,125,106"
-154,F,Mayo Building and Hospital,Jacksonville,304,"16,113","95,495","$2,779,430"
-155,L,Mease Countryside Hospital,Safety Harbor,318,"16,718","77,289","$1,649,588"
-156,F,Mease Dunedin Hospital,Dunedin,112,"6,228","30,424","$528,782"
-157,L,Melbourne Regional Medical Center,Melbourne,96,"4,288","15,717","$1,019,511"
-158,F,Memorial Hospital Miramar,Miramar,178,"9,789","45,606","$1,485,877"
-159,L,Memorial Hospital Pembroke,Pembroke Pines,181,"7,010","38,548","$1,300,178"
-160,F,Memorial Hospital West,Pembroke Pines,486,"21,654","128,421","$4,488,752"
-161,L,Memorial Regional Hospital,Hollywood,929,"30,948","223,561","$8,329,282"
-162,F,Memorial Regional Hospital South,Hollywood,0,0,0,$0
-163,L,Miami Jewish Health Systems,Miami,454,42,171,"$47,310"
-164,F,Moffitt Cancer Center Magnolia Campus,Tampa,218,"10,327","65,773","$5,944,508"
-165,L,Morton Plant Hospital,Clearwater,689,"25,509","126,684","$3,124,015"
-166,F,Morton Plant North Bay Hospital,New Port Richey,222,"11,723","59,838","$828,592"
-167,L,Mount Sinai Medical Center,Miami Beach,597,"24,586","122,208","$3,305,770"
-168,F,Naval Hospital Jacksonville,Jacksonville,0,0,0,$0
-169,L,Naval Hospital Pensacola,Pensacola,0,0,0,$0
-170,F,NCH Baker Downtown,Naples,592,"30,180","133,489","$3,159,609"
-171,L,NCH North Naples Hospital,Naples,0,0,0,$0
-172,F,North Okaloosa Medical Center,Crestview,110,"4,657","24,657","$1,259,827"
-173,L,North Shore Medical Center,Miami,748,"21,045","104,869","$3,630,159"
-174,F,Orlando Health - Health Central Hospital,Ocoee,284,"16,220","66,024","$2,131,305"
-175,L,Orlando Health Cancer Institute Downtown,Orlando,0,0,0,$0
-176,F,Orlando Health Dr. P. Phillips Hospital,Orlando,0,0,0,$0
-177,L,Orlando Health Horizon West Hospital,Winter Garden,0,0,0,$0
-178,F,Orlando Health Orlando Regional Medical Center,Orlando,"1,757","99,746","459,667","$18,752,428"
-179,L,Orlando Health South Lake Hospital,Clermont,197,"14,713","53,356","$2,365,264"
-180,F,Orlando Health South Seminole Hospital,Longwood,0,0,0,$0
-181,L,Orlando Health St. Cloud Hospital,Saint Cloud,84,"5,585","23,345","$729,188"
-182,F,Orlando VA Medical Center,Orlando,0,0,0,$0
-183,L,Oviedo Medical Center,Oviedo,64,"4,752","18,519","$870,729"
-184,F,Palm Bay Hospital,Palm Bay,120,"7,920","33,762","$818,080"
-185,L,Palm Beach Children's Hospital,West Palm Beach,0,0,0,$0
-186,F,Palm Beach Gardens Medical Center,Palm Beach Gardens,199,"9,784","50,833","$2,279,488"
-187,L,Palmetto General Hospital,Hialeah,358,"17,614","74,445","$2,780,620"
-188,F,Parrish Medical Center,Titusville,210,"4,634","29,714","$616,751"
-189,L,Physicians Regional Medical Center - Collier Boulevard,Naples,0,0,0,$0
-190,F,Physicians Regional Medical Center - Pine Ridge,Naples,259,"15,913","78,881","$3,447,170"
-191,L,Reception and Medical Center,Lake Butler,0,0,0,$0
-192,F,Rockledge Regional Medical Center,Rockledge,298,"7,453","38,876","$1,615,016"
-193,L,Saint Anthony's Hospital,Saint Petersburg,378,"15,805","76,443","$2,080,579"
-194,F,Saint Joseph's Hospital,Tampa,"1,382","51,341","278,733","$5,884,541"
-195,L,Saint Joseph's Hospital - North,Lutz,0,0,0,$0
-196,F,Saint Joseph's Hospital - South,Riverview,0,0,0,$0
-197,L,Saint Joseph's Women's Hospital,Tampa,0,0,0,$0
-198,F,Saint Mary's Medical Center,West Palm Beach,420,"16,533","90,606","$2,990,290"
-199,L,Santa Rosa Medical Center,Milton,86,"4,382","16,572","$954,529"
-200,F,Sarasota Memorial Hospital - Sarasota Campus,Sarasota,878,"36,076","198,734","$5,775,184"
-201,L,Sarasota Memorial Hospital - Venice Campus,North Venice,110,"9,095","35,672","$907,848"
-202,F,Sebastian River Medical Center,Sebastian,178,"4,225","17,267","$1,073,989"
-203,L,ShorePoint Health Port Charlotte,Port Charlotte,254,"9,059","49,163","$1,898,406"
-204,F,ShorePoint Health Punta Gorda,Punta Gorda,133,"3,808","18,747","$622,466"
-205,L,South Florida Baptist Hospital,Plant City,128,"6,130","29,584","$725,542"
-206,F,South Miami Hospital,South Miami,375,"14,056","78,559","$2,586,496"
-207,L,Sylvester Comprehensive Cancer Center,Miami,0,0,0,$0
-208,F,Tallahassee Memorial Healthcare,Tallahassee,495,"28,057","125,237","$3,687,189"
-209,L,Tampa General Hospital,Tampa,957,"54,097","300,600","$9,345,828"
-210,F,UCF Lake Nona Hospital,Orlando,64,"2,712","9,916","$525,778"
-211,L,UF Health Jacksonville,Jacksonville,658,"28,293","168,347","$4,220,049"
-212,F,UF Health Leesburg Hospital,Leesburg,344,"12,955","75,161","$874,810"
-213,L,UF Health Shands Florida,Gainesville,"1,045","43,841","272,230","$6,982,047"
-214,F,UF Health The Villages Hospital,The Villages,307,"11,701","64,446","$789,193"
-215,L,UHealth Tower,Miami,564,"17,333","135,674","$10,904,781"
-216,F,Viera Hospital,Melbourne,84,"6,008","21,555","$815,988"
-217,L,Wellington Regional Medical Center,Wellington,235,"16,060","71,833","$2,135,970"
-218,F,West Boca Medical Center,West Boca Raton,195,"10,113","38,258","$1,572,005"
-219,L,West Kendall Baptist Hospital,Miami,127,"8,080","39,109","$1,610,194"
-220,F,West Palm Beach VA Medical Center,West Palm Beach,0,0,0,$0
-221,L,Winter Haven Hospital,Winter Haven,506,"19,923","104,351","$2,166,353"
-222,F,Winter Haven Women's Hospital,Winter Haven,0,0,0,$0
+0,FL,96th Medical Group - Eglin Air Force Base,Eglin Air Force Base,0,0,0,$0
+1,FL,AdventHealth Altamonte Springs,Altamonte Springs,0,0,0,$0
+2,FL,AdventHealth Apopka,Apopka,0,0,0,$0
+3,FL,AdventHealth Carrollwood,Tampa,103,"6,566","30,083","$1,223,761"
+4,FL,AdventHealth Celebration,Celebration,0,0,0,$0
+5,FL,AdventHealth Dade City,Dade City,120,"4,644","16,524",$0
+6,FL,AdventHealth Daytona Beach,Daytona Beach,362,"18,031","99,725","$2,276,874"
+7,FL,AdventHealth DeLand,DeLand,164,"7,731","36,976","$903,260"
+8,FL,AdventHealth East Orlando,Orlando,0,0,0,$0
+9,FL,AdventHealth Fish Memorial,Orange City,257,"9,628","51,168","$1,010,901"
+10,FL,AdventHealth Heart of Florida,Davenport,193,"8,979","44,993","$2,018,584"
+11,FL,AdventHealth Kissimmee,Kissimmee,0,0,0,$0
+12,FL,AdventHealth Lake Placid,Lake Placid,0,0,0,$0
+13,FL,AdventHealth Lake Wales,Lake Wales,29,"3,461","17,585","$647,981"
+14,FL,AdventHealth New Smyrna Beach,New Smyrna Beach,109,"5,396","26,640","$564,216"
+15,FL,AdventHealth North Pinellas,Tarpon Springs,168,"5,015","26,164","$666,524"
+16,FL,AdventHealth Ocala,Ocala,385,"18,024","84,663",$0
+17,FL,AdventHealth Orlando,Orlando,"2,904","130,555","772,819","$24,812,983"
+18,FL,AdventHealth Palm Coast,Palm Coast,99,"8,569","44,391","$1,070,213"
+19,FL,AdventHealth Pepin Heart Institute,Tampa,0,0,0,$0
+20,FL,AdventHealth Sebring,Sebring,204,"11,167","58,893","$1,521,524"
+21,FL,AdventHealth Tampa,Tampa,626,"22,379","123,045","$3,606,321"
+22,FL,AdventHealth Waterman,Tavares,280,"14,274","67,436","$1,657,465"
+23,FL,AdventHealth Wesley Chapel,Wesley Chapel,169,"10,151","41,342","$1,795,820"
+24,FL,AdventHealth Winter Garden,Winter Garden,0,0,0,$0
+25,FL,AdventHealth Winter Park,Winter Park,0,0,0,$0
+26,FL,AdventHealth Zephyrhills,Zephyrhills,149,"9,970","42,350","$1,256,403"
+27,FL,Ascension Sacred Heart Bay,Panama City,169,"7,608","42,710","$1,087,119"
+28,FL,Ascension Sacred Heart Emerald Coast,Miramar Beach,80,"5,525","18,798","$876,330"
+29,FL,Ascension Sacred Heart Gulf,Port Saint Joe,19,425,"1,517","$85,115"
+30,FL,Ascension Sacred Heart Pensacola Hospital,Pensacola,557,"25,679","132,107","$3,824,913"
+31,FL,Ascension St. Vincent's Clay County Hospital,Middleburg,134,"7,496","34,594","$908,673"
+32,FL,Ascension St. Vincent's Health Center - St. Johns,St. Augustine,0,0,0,$0
+33,FL,Ascension St. Vincent's Riverside Hospital,Jacksonville,453,"18,063","95,966","$2,890,091"
+34,FL,Ascension St. Vincent's Southside Hospital,Jacksonville,263,"9,053","40,538","$1,375,551"
+35,FL,Ascension St. Vincent's St. Johns County Hospital,St. Johns,0,0,0,$0
+36,FL,Baptist Heart Hospital,Jacksonville,0,0,0,$0
+37,FL,Baptist Hospital,Miami,948,"27,424","200,733","$6,902,086"
+38,FL,Baptist Hospital,Pensacola,339,"15,075","77,257","$2,778,968"
+39,FL,Baptist Medical Center Beaches,Jacksonville Beach,135,"7,721","35,997","$880,001"
+40,FL,Baptist Medical Center Clay,Fleming Island,0,0,0,$0
+41,FL,Baptist Medical Center Jacksonville,Jacksonville,930,"42,129","275,644","$7,747,612"
+42,FL,Baptist Medical Center Nassau,Fernandina Beach,54,"3,334","13,666","$422,420"
+43,FL,Baptist Medical Center South,Jacksonville,0,0,0,$0
+44,FL,Bartow Regional Medical Center,Bartow,72,"3,377","15,035","$420,743"
+45,FL,Bascom Palmer Eye Institute,Miami,56,51,165,"$558,211"
+46,FL,Bay Pines VA Healthcare System,Bay Pines,0,0,0,$0
+47,FL,BayCare Hospital Wesley Chapel,Wesley Chapel,0,0,0,$0
+48,FL,Bayfront Health St. Petersburg,Saint Petersburg,305,"13,214","63,462","$2,369,625"
+49,FL,Bethesda Hospital East,Boynton Beach,442,"16,278","89,754","$2,371,704"
+50,FL,Bethesda Hospital West,Boynton Beach,0,0,0,$0
+51,FL,Boca Raton Regional Hospital,Boca Raton,361,"20,090","83,647","$3,418,007"
+52,FL,Bravera Health Brooksville,Brooksville,244,"8,417","35,367","$1,196,864"
+53,FL,Bravera Health Seven Rivers,Crystal River,121,"6,343","27,341","$1,194,513"
+54,FL,Bravera Health Spring Hill,Spring Hill,88,"4,933","19,869","$90,265"
+55,FL,Broward Health Coral Springs,Coral Springs,224,"10,619","56,348","$1,042,606"
+56,FL,Broward Health Imperial Point,Fort Lauderdale,204,"4,303","11,912","$560,409"
+57,FL,Broward Health Medical Center,Fort Lauderdale,632,"20,326","128,909","$2,534,774"
+58,FL,Broward Health North,Deerfield Beach,334,"11,251","59,708","$1,280,156"
+59,FL,Bruce W. Carter Department of Veterans Affairs Medical Center,Miami,0,0,0,$0
+60,FL,Cape Canaveral Hospital,Cocoa Beach,150,"7,369","28,638","$781,438"
+61,FL,Cape Coral Hospital,Cape Coral,291,"18,583","84,930","$1,705,801"
+62,FL,Cleveland Clinic Florida / Weston Hospital,Weston,230,"12,893","70,746","$1,609,342"
+63,FL,Cleveland Clinic Indian River Hospital,Vero Beach,332,"14,447","66,965","$1,420,279"
+64,FL,Cleveland Clinic Martin North Hospital,Stuart,521,"27,626","129,762","$3,296,277"
+65,FL,Cleveland Clinic Martin South Hospital,Stuart,0,0,0,$0
+66,FL,Cleveland Clinic Tradition Hospital,Port St. Lucie,0,0,0,$0
+67,FL,Coral Gables Hospital,Coral Gables,245,"5,190","23,851","$1,232,676"
+68,FL,Delray Medical Center,Delray Beach,508,"19,531","90,063","$4,212,783"
+69,FL,DeSoto Memorial Hospital,Arcadia,49,598,"2,208","$165,189"
+70,FL,Doctors Hospital,Coral Gables,130,"4,990","23,291","$977,561"
+71,FL,Doctors' Memorial Hospital,Perry,48,390,"1,692","$52,406"
+72,FL,Ed Fraser Memorial Hospital,MacClenny,89,298,792,"$70,786"
+73,FL,Flagler Hospital,Saint Augustine,335,"12,716","66,557","$1,436,542"
+74,FL,Florida Medical Center,Fort Lauderdale,434,"9,083","49,815","$839,316"
+75,FL,Florida State Hospital,Chattahoochee,58,0,"1,895","$2,572"
+76,FL,Good Samaritan Medical Center,West Palm Beach,333,"10,591","51,921","$2,687,707"
+77,FL,Gulf Breeze Hospital,Gulf Breeze,65,"3,228","13,235","$771,729"
+78,FL,Gulf Coast Medical Center,Fort Myers,699,"23,639","135,245","$2,839,090"
+79,FL,Halifax Health - Medical Center of Port Orange,Port Orange,0,0,0,$0
+80,FL,Halifax Health Medical Center of Daytona Beach,Daytona Beach,573,"24,030","121,420","$2,337,202"
+81,FL,Halifax Health UF Health - Medical Center of Deltona,Deltona,43,"1,534","6,122","$201,616"
+82,FL,HCA Florida Aventura Hospital,Aventura,467,"18,557","102,662","$3,348,745"
+83,FL,HCA Florida Bayonet Point Hospital,Hudson,290,"17,134","79,020","$3,856,700"
+84,FL,HCA Florida Blake Hospital,Bradenton,383,"13,717","78,602","$2,786,756"
+85,FL,HCA Florida Brandon Hospital,Brandon,422,"21,964","97,198","$5,060,533"
+86,FL,HCA Florida Capital Hospital,Tallahassee,266,"16,605","76,213","$2,672,987"
+87,FL,HCA Florida Citrus Hospital,Inverness,204,"10,583","48,113","$2,448,822"
+88,FL,HCA Florida Englewood Hospital,Englewood,100,"3,834","14,409","$851,424"
+89,FL,HCA Florida Fawcett Hospital,Port Charlotte,253,"10,601","52,719","$2,543,664"
+90,FL,HCA Florida Fort Walton-Destin Hospital,Fort Walton Beach,267,"11,893","58,420","$3,713,800"
+91,FL,HCA Florida Gulf Coast Hospital,Panama City,223,"14,775","68,718","$3,048,908"
+92,FL,HCA Florida Highlands Hospital,Sebring,109,"3,962","16,378","$678,231"
+93,FL,HCA Florida JFK Hospital,Atlantis,700,"29,458","145,258","$6,651,103"
+94,FL,HCA Florida JFK North Hospital,West Palm Beach,229,"5,660","23,739","$743,224"
+95,FL,HCA Florida Kendall Hospital,Miami,447,"21,190","111,842","$5,113,189"
+96,FL,HCA Florida Lake City Hospital,Lake City,91,"7,218","32,721","$1,396,642"
+97,FL,HCA Florida Lake Monroe Hospital,Sanford,221,"9,247","46,311","$1,791,286"
+98,FL,HCA Florida Largo Hospital,Largo,346,"11,641","68,796","$3,637,174"
+99,FL,HCA Florida Largo West Hospital,Largo,177,"4,886","22,705","$199,048"
+100,FL,HCA Florida Lawnwood Hospital,Fort Pierce,430,"19,680","104,098","$4,403,175"
+101,FL,HCA Florida Memorial Hospital,Jacksonville,429,"18,899","98,840","$4,684,311"
+102,FL,HCA Florida Mercy Hospital,Miami,369,"17,840","89,857","$3,892,351"
+103,FL,HCA Florida North Florida Hospital,Gainesville,495,"28,028","142,646","$6,504,175"
+104,FL,HCA Florida Northside Hospital,Saint Petersburg,230,"9,712","43,179","$2,072,509"
+105,FL,HCA Florida Northwest Hospital,Margate,289,"15,115","70,287","$2,655,163"
+106,FL,HCA Florida Oak Hill Hospital,Brooksville,350,"21,523","98,997","$3,998,507"
+107,FL,HCA Florida Ocala Hospital,Ocala,510,"33,788","149,645","$6,614,768"
+108,FL,HCA Florida Orange Park Hospital,Orange Park,343,"17,265","96,856","$4,754,313"
+109,FL,HCA Florida Osceola Hospital,Kissimmee,404,"18,902","108,394","$4,526,793"
+110,FL,HCA Florida Palms West Hospital,Loxahatchee,204,"12,974","57,831","$2,085,196"
+111,FL,HCA Florida Pasadena Hospital,Saint Petersburg,187,"3,799","17,727","$1,093,635"
+112,FL,HCA Florida Poinciana Hospital,Kissimmee,76,"4,165","20,966","$1,385,901"
+113,FL,HCA Florida Putnam Hospital,Palatka,87,"4,836","20,724","$774,162"
+114,FL,HCA Florida Raulerson Hospital,Okeechobee,100,"3,664","16,371","$662,468"
+115,FL,HCA Florida Sarasota Doctors Hospital,Sarasota,155,"8,235","34,125","$1,804,719"
+116,FL,HCA Florida South Shore Hospital,Sun City Center,138,"6,119","26,564","$1,166,024"
+117,FL,HCA Florida South Tampa Hospital,Tampa,247,"5,244","23,784","$1,528,666"
+118,FL,HCA Florida St. Lucie Hospital,Port Saint Lucie,207,"12,429","54,905","$2,507,149"
+119,FL,HCA Florida St. Petersburg Hospital,Saint Petersburg,168,"6,009","23,091","$1,561,218"
+120,FL,HCA Florida Trinity Hospital,Trinity,330,"16,535","71,575","$3,513,256"
+121,FL,HCA Florida Twin Cities Hospital,Niceville,65,"2,185","10,046","$841,131"
+122,FL,HCA Florida University Hospital,Davie,0,0,0,$0
+123,FL,HCA Florida West Hospital,Pensacola,391,"18,283","84,683","$3,513,246"
+124,FL,HCA Florida West Marion Hospital,Ocala,0,0,0,$0
+125,FL,HCA Florida West Tampa Hospital,Tampa,201,"3,184","14,911","$545,181"
+126,FL,HCA Florida Westside Hospital,Plantation,250,"13,673","65,736","$2,678,358"
+127,FL,HCA Florida Woodmont Hospital,Tamarac,317,"6,885","35,542","$1,493,805"
+128,FL,Healthmark Regional Medical Center,Defuniak Springs,44,278,"1,400","$28,943"
+129,FL,HealthPark Medical Center,Fort Myers,0,0,0,$0
+130,FL,Hialeah Hospital,Hialeah,340,"7,679","40,560","$1,416,568"
+131,FL,Holmes Regional Medical Center,Melbourne,550,"29,193","145,385","$3,118,216"
+132,FL,Holy Cross Health,Fort Lauderdale,367,"13,114","62,243","$2,465,723"
+133,FL,Homestead Hospital,Homestead,182,"6,734","30,263","$1,319,073"
+134,FL,Jackson Hospital,Marianna,66,"2,280","12,239","$202,812"
+135,FL,Jackson Memorial Hospital,Miami,"2,099","62,137","417,238","$6,575,093"
+136,FL,Jackson North Medical Center,North Miami Beach,0,0,0,$0
+137,FL,Jackson South Medical Center,Miami,192,"8,219","40,306","$164,920"
+138,FL,Jackson West Medical Center,Doral,0,0,0,$0
+139,FL,James A. Haley Veterans' Hospital,Tampa,0,0,0,$0
+140,FL,Jay Hospital,Jay,21,309,"1,529","$57,946"
+141,FL,Jupiter Medical Center,Jupiter,242,"13,240","58,706","$1,641,901"
+142,FL,Keralty Hospital,Miami,125,"1,844","13,030","$158,762"
+143,FL,Lake City VA Medical Center,Lake City,0,0,0,$0
+144,FL,Lakeland Regional Health Medical Center,Lakeland,864,"40,440","209,204","$5,009,501"
+145,FL,Lakeside Medical Center,Belle Glade,54,779,"4,194","$128,545"
+146,FL,Lakewood Ranch Medical Center,Lakewood Ranch,120,"7,608","33,044","$1,411,954"
+147,FL,Larkin Community Hospital Palm Springs Campus,Hialeah,119,"2,978","23,387","$339,622"
+148,FL,Larkin Community Hospital South Miami,South Miami,128,"4,565","22,754","$355,512"
+149,FL,Lee Memorial Hospital,Fort Myers,846,"42,715","185,691","$5,629,639"
+150,FL,Lehigh Regional Medical Center,Lehigh Acres,88,"2,210","10,707","$301,322"
+151,FL,Lower Keys Medical Center,Key West,122,"2,435","9,497","$475,044"
+152,FL,Malcom Randall Department of Veterans Affairs Medical Center,Gainesville,0,0,0,$0
+153,FL,Manatee Memorial Hospital,Bradenton,295,"18,236","87,972","$3,125,106"
+154,FL,Mayo Building and Hospital,Jacksonville,304,"16,113","95,495","$2,779,430"
+155,FL,Mease Countryside Hospital,Safety Harbor,318,"16,718","77,289","$1,649,588"
+156,FL,Mease Dunedin Hospital,Dunedin,112,"6,228","30,424","$528,782"
+157,FL,Melbourne Regional Medical Center,Melbourne,96,"4,288","15,717","$1,019,511"
+158,FL,Memorial Hospital Miramar,Miramar,178,"9,789","45,606","$1,485,877"
+159,FL,Memorial Hospital Pembroke,Pembroke Pines,181,"7,010","38,548","$1,300,178"
+160,FL,Memorial Hospital West,Pembroke Pines,486,"21,654","128,421","$4,488,752"
+161,FL,Memorial Regional Hospital,Hollywood,929,"30,948","223,561","$8,329,282"
+162,FL,Memorial Regional Hospital South,Hollywood,0,0,0,$0
+163,FL,Miami Jewish Health Systems,Miami,454,42,171,"$47,310"
+164,FL,Moffitt Cancer Center Magnolia Campus,Tampa,218,"10,327","65,773","$5,944,508"
+165,FL,Morton Plant Hospital,Clearwater,689,"25,509","126,684","$3,124,015"
+166,FL,Morton Plant North Bay Hospital,New Port Richey,222,"11,723","59,838","$828,592"
+167,FL,Mount Sinai Medical Center,Miami Beach,597,"24,586","122,208","$3,305,770"
+168,FL,Naval Hospital Jacksonville,Jacksonville,0,0,0,$0
+169,FL,Naval Hospital Pensacola,Pensacola,0,0,0,$0
+170,FL,NCH Baker Downtown,Naples,592,"30,180","133,489","$3,159,609"
+171,FL,NCH North Naples Hospital,Naples,0,0,0,$0
+172,FL,North Okaloosa Medical Center,Crestview,110,"4,657","24,657","$1,259,827"
+173,FL,North Shore Medical Center,Miami,748,"21,045","104,869","$3,630,159"
+174,FL,Orlando Health - Health Central Hospital,Ocoee,284,"16,220","66,024","$2,131,305"
+175,FL,Orlando Health Cancer Institute Downtown,Orlando,0,0,0,$0
+176,FL,Orlando Health Dr. P. Phillips Hospital,Orlando,0,0,0,$0
+177,FL,Orlando Health Horizon West Hospital,Winter Garden,0,0,0,$0
+178,FL,Orlando Health Orlando Regional Medical Center,Orlando,"1,757","99,746","459,667","$18,752,428"
+179,FL,Orlando Health South Lake Hospital,Clermont,197,"14,713","53,356","$2,365,264"
+180,FL,Orlando Health South Seminole Hospital,Longwood,0,0,0,$0
+181,FL,Orlando Health St. Cloud Hospital,Saint Cloud,84,"5,585","23,345","$729,188"
+182,FL,Orlando VA Medical Center,Orlando,0,0,0,$0
+183,FL,Oviedo Medical Center,Oviedo,64,"4,752","18,519","$870,729"
+184,FL,Palm Bay Hospital,Palm Bay,120,"7,920","33,762","$818,080"
+185,FL,Palm Beach Children's Hospital,West Palm Beach,0,0,0,$0
+186,FL,Palm Beach Gardens Medical Center,Palm Beach Gardens,199,"9,784","50,833","$2,279,488"
+187,FL,Palmetto General Hospital,Hialeah,358,"17,614","74,445","$2,780,620"
+188,FL,Parrish Medical Center,Titusville,210,"4,634","29,714","$616,751"
+189,FL,Physicians Regional Medical Center - Collier Boulevard,Naples,0,0,0,$0
+190,FL,Physicians Regional Medical Center - Pine Ridge,Naples,259,"15,913","78,881","$3,447,170"
+191,FL,Reception and Medical Center,Lake Butler,0,0,0,$0
+192,FL,Rockledge Regional Medical Center,Rockledge,298,"7,453","38,876","$1,615,016"
+193,FL,Saint Anthony's Hospital,Saint Petersburg,378,"15,805","76,443","$2,080,579"
+194,FL,Saint Joseph's Hospital,Tampa,"1,382","51,341","278,733","$5,884,541"
+195,FL,Saint Joseph's Hospital - North,Lutz,0,0,0,$0
+196,FL,Saint Joseph's Hospital - South,Riverview,0,0,0,$0
+197,FL,Saint Joseph's Women's Hospital,Tampa,0,0,0,$0
+198,FL,Saint Mary's Medical Center,West Palm Beach,420,"16,533","90,606","$2,990,290"
+199,FL,Santa Rosa Medical Center,Milton,86,"4,382","16,572","$954,529"
+200,FL,Sarasota Memorial Hospital - Sarasota Campus,Sarasota,878,"36,076","198,734","$5,775,184"
+201,FL,Sarasota Memorial Hospital - Venice Campus,North Venice,110,"9,095","35,672","$907,848"
+202,FL,Sebastian River Medical Center,Sebastian,178,"4,225","17,267","$1,073,989"
+203,FL,ShorePoint Health Port Charlotte,Port Charlotte,254,"9,059","49,163","$1,898,406"
+204,FL,ShorePoint Health Punta Gorda,Punta Gorda,133,"3,808","18,747","$622,466"
+205,FL,South Florida Baptist Hospital,Plant City,128,"6,130","29,584","$725,542"
+206,FL,South Miami Hospital,South Miami,375,"14,056","78,559","$2,586,496"
+207,FL,Sylvester Comprehensive Cancer Center,Miami,0,0,0,$0
+208,FL,Tallahassee Memorial Healthcare,Tallahassee,495,"28,057","125,237","$3,687,189"
+209,FL,Tampa General Hospital,Tampa,957,"54,097","300,600","$9,345,828"
+210,FL,UCF Lake Nona Hospital,Orlando,64,"2,712","9,916","$525,778"
+211,FL,UF Health Jacksonville,Jacksonville,658,"28,293","168,347","$4,220,049"
+212,FL,UF Health Leesburg Hospital,Leesburg,344,"12,955","75,161","$874,810"
+213,FL,UF Health Shands Florida,Gainesville,"1,045","43,841","272,230","$6,982,047"
+214,FL,UF Health The Villages Hospital,The Villages,307,"11,701","64,446","$789,193"
+215,FL,UHealth Tower,Miami,564,"17,333","135,674","$10,904,781"
+216,FL,Viera Hospital,Melbourne,84,"6,008","21,555","$815,988"
+217,FL,Wellington Regional Medical Center,Wellington,235,"16,060","71,833","$2,135,970"
+218,FL,West Boca Medical Center,West Boca Raton,195,"10,113","38,258","$1,572,005"
+219,FL,West Kendall Baptist Hospital,Miami,127,"8,080","39,109","$1,610,194"
+220,FL,West Palm Beach VA Medical Center,West Palm Beach,0,0,0,$0
+221,FL,Winter Haven Hospital,Winter Haven,506,"19,923","104,351","$2,166,353"
+222,FL,Winter Haven Women's Hospital,Winter Haven,0,0,0,$0
