@@ -1,0 +1,18 @@
+#    FieldName  Description
+ 1   STATE/County      Geographic Identifier
+ 2   NAME       Area Name
+ 3   POP70      Population                                                      
+ 4   HHD70      Households                                                      
+ 5   POP80      Population                                                      
+ 6   HHD80      Households                                                      
+ 7   POP90      Population 1990                                                 
+ 8   HHD90      Households                                                      
+ 9   POP00      Population                                                      
+ 10  HHD00      Households                                                      
+ 11  POP10      Population                                                      
+ 12  HHD10      Households
+ 13  C_         Confirmed Case
+ 14  D_         Death Case
+ 15  R_         Recovered Case                                                      
+
+
